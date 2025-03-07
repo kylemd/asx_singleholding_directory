@@ -1,0 +1,3654 @@
+{
+  "metadata": {
+    "source": "Investorserve",
+    "generated_at": "2025-03-07T04:09:03.181Z",
+    "total_companies": 729
+  },
+  "companies": [
+    {
+      "code": "GQGP",
+      "altCode": null,
+      "name": "248 Emerging Companies Fund"
+    },
+    {
+      "code": "HQSA",
+      "altCode": null,
+      "name": "360 Capital FM Limited"
+    },
+    {
+      "code": "TGP",
+      "altCode": "TCGR",
+      "name": "360 Capital Group"
+    },
+    {
+      "code": "TCF",
+      "altCode": "AZND",
+      "name": "360 Capital Mortgage REIT"
+    },
+    {
+      "code": "LPCT",
+      "altCode": null,
+      "name": "360 Capital Private Credit Fund"
+    },
+    {
+      "code": "TOT",
+      "altCode": "VJAT",
+      "name": "360 Capital REIT"
+    },
+    {
+      "code": "8IH",
+      "altCode": "ABWF",
+      "name": "8I Holdings Limited"
+    },
+    {
+      "code": "9SP",
+      "altCode": "XNWC",
+      "name": "9 Spokes International Limited"
+    },
+    {
+      "code": "ABG",
+      "altCode": "KRBI",
+      "name": "Abacus Group"
+    },
+    {
+      "code": "ASK",
+      "altCode": "HRAP",
+      "name": "Abacus Storage King"
+    },
+    {
+      "code": "BFMV",
+      "altCode": null,
+      "name": "Aberdeen Standard Investments Australia Limited"
+    },
+    {
+      "code": "VZBB",
+      "altCode": null,
+      "name": "ABL Corp Ltd"
+    },
+    {
+      "code": "AEG",
+      "altCode": "UFCD",
+      "name": "Absolute Equity Performance Fund Limited"
+    },
+    {
+      "code": "MLCG",
+      "altCode": null,
+      "name": "AC Solar Warehouse Pty Ltd"
+    },
+    {
+      "code": "NIQR",
+      "altCode": null,
+      "name": "ACN 618 937 054 Limited"
+    },
+    {
+      "code": "BVOI",
+      "altCode": null,
+      "name": "Acorn Capital Limited"
+    },
+    {
+      "code": "LBLL",
+      "altCode": null,
+      "name": "Acorn Capital Limited - ACEP"
+    },
+    {
+      "code": "AIV",
+      "altCode": "QTIC",
+      "name": "ActivEX Limited"
+    },
+    {
+      "code": "CELZ",
+      "altCode": null,
+      "name": "Acure Core Plus REIT"
+    },
+    {
+      "code": "AKOH",
+      "altCode": null,
+      "name": "Acurus Holdings Pty Ltd"
+    },
+    {
+      "code": "ADA",
+      "altCode": "ADIC",
+      "name": "Adacel Technologies Limited"
+    },
+    {
+      "code": "ABC",
+      "altCode": "HXFR",
+      "name": "ADBRI Limited"
+    },
+    {
+      "code": "ADY",
+      "altCode": "XBEJ",
+      "name": "Admiralty Resources NL"
+    },
+    {
+      "code": "AVM*AVMO",
+      "altCode": "CHKN",
+      "name": "Advance Metals Limited"
+    },
+    {
+      "code": "LWDD",
+      "altCode": null,
+      "name": "Advanced Metals Technology Group Pty Ltd"
+    },
+    {
+      "code": "A88",
+      "altCode": "XTGO",
+      "name": "AdvanceTC Limited"
+    },
+    {
+      "code": "AER",
+      "altCode": "MKUM",
+      "name": "Aeeris Ltd"
+    },
+    {
+      "code": "QAFC",
+      "altCode": null,
+      "name": "AEM Holdings Ltd"
+    },
+    {
+      "code": "RWUJ",
+      "altCode": null,
+      "name": "Aeramentum Resources Limited"
+    },
+    {
+      "code": "VEHK",
+      "altCode": null,
+      "name": "AIMS Fund Management Limited"
+    },
+    {
+      "code": "NKLL",
+      "altCode": null,
+      "name": "AIMS Property Securities Fund Takeover Register Only"
+    },
+    {
+      "code": "AYWD",
+      "altCode": null,
+      "name": "Airwallex Capital Pty Limited"
+    },
+    {
+      "code": "JDPD",
+      "altCode": null,
+      "name": "Alceon"
+    },
+    {
+      "code": "TQDO",
+      "altCode": null,
+      "name": "Alex Corporation Limited"
+    },
+    {
+      "code": "RRKD",
+      "altCode": null,
+      "name": "Alphinity Global Equity Fund"
+    },
+    {
+      "code": "ALQ",
+      "altCode": "KMXO",
+      "name": "ALS Limited"
+    },
+    {
+      "code": "UZNK",
+      "altCode": null,
+      "name": "Altius Bond Fund"
+    },
+    {
+      "code": "VGSF",
+      "altCode": null,
+      "name": "Altius Green Bond Fund"
+    },
+    {
+      "code": "MHQH",
+      "altCode": null,
+      "name": "Altius Sustainable Bond Fund"
+    },
+    {
+      "code": "CPAX",
+      "altCode": null,
+      "name": "Altostratos Holdings Limited"
+    },
+    {
+      "code": "XJRO",
+      "altCode": null,
+      "name": "Amalgamated Australian Investment Group Limited"
+    },
+    {
+      "code": "AMO",
+      "altCode": "AMAB",
+      "name": "Ambertech Limited"
+    },
+    {
+      "code": "RAHD",
+      "altCode": null,
+      "name": "Ambition Group Limited"
+    },
+    {
+      "code": "AND",
+      "altCode": "SYCZ",
+      "name": "Ansarada Group Limited"
+    },
+    {
+      "code": "AHX",
+      "altCode": "STPR",
+      "name": "Apiam Animal Health Limited"
+    },
+    {
+      "code": "APIG",
+      "altCode": null,
+      "name": "APIL Group"
+    },
+    {
+      "code": "ADEF",
+      "altCode": "QSNU",
+      "name": "Apostle Dundas Global Equity Fund"
+    },
+    {
+      "code": "AQS",
+      "altCode": "YRCE",
+      "name": "Aquis Entertainment Limited"
+    },
+    {
+      "code": "NOVD",
+      "altCode": null,
+      "name": "ARA Consultants Limited"
+    },
+    {
+      "code": "QDZG",
+      "altCode": null,
+      "name": "ARB Interactive LLC"
+    },
+    {
+      "code": "IPYU",
+      "altCode": null,
+      "name": "Archerfield Investment Management"
+    },
+    {
+      "code": "WAVZ",
+      "altCode": null,
+      "name": "Architecture and Access (Aust) Pty Ltd"
+    },
+    {
+      "code": "PHTA",
+      "altCode": null,
+      "name": "Arena Investment Management Limited"
+    },
+    {
+      "code": "ARF",
+      "altCode": "FHYO",
+      "name": "Arena REIT"
+    },
+    {
+      "code": "ALI",
+      "altCode": "TAAD",
+      "name": "Argo Global Listed Infrastructure Limited"
+    },
+    {
+      "code": "ARG",
+      "altCode": "IWQC",
+      "name": "Argo Investments Limited"
+    },
+    {
+      "code": "ZHVV",
+      "altCode": null,
+      "name": "Argus Property Partners Pty Limited"
+    },
+    {
+      "code": "ALL",
+      "altCode": "BSVB",
+      "name": "Aristocrat Leisure Limited"
+    },
+    {
+      "code": "ARX",
+      "altCode": "HDYC",
+      "name": "Aroa Biosurgery Limited"
+    },
+    {
+      "code": "AR2",
+      "altCode": "OJZZ",
+      "name": "Arris Holdings Berhad"
+    },
+    {
+      "code": "COXD",
+      "altCode": null,
+      "name": "Arrow Funds Management Limited"
+    },
+    {
+      "code": "AFA",
+      "altCode": "CMCP",
+      "name": "ASF Group Limited"
+    },
+    {
+      "code": "QULI",
+      "altCode": null,
+      "name": "ASF Resources Limited"
+    },
+    {
+      "code": "YFOW",
+      "altCode": null,
+      "name": "Ashburton"
+    },
+    {
+      "code": "TNRN",
+      "altCode": null,
+      "name": "Asia Digital Exchange Pte Ltd"
+    },
+    {
+      "code": "ASV",
+      "altCode": "IVGH",
+      "name": "Asset Vision Co Limited"
+    },
+    {
+      "code": "AT1",
+      "altCode": "ATMD",
+      "name": "Atomo Diagnostics Limited"
+    },
+    {
+      "code": "AMS*AMSO",
+      "altCode": "DXLR",
+      "name": "Atomos Limited"
+    },
+    {
+      "code": "AUK*AUKOA",
+      "altCode": "AUKL",
+      "name": "Aumake Limited"
+    },
+    {
+      "code": "EUMR",
+      "altCode": null,
+      "name": "Aurecon Group Pty Ltd"
+    },
+    {
+      "code": "JJJF",
+      "altCode": null,
+      "name": "Aurecon Limited"
+    },
+    {
+      "code": "AKA",
+      "altCode": "DDFL",
+      "name": "Aureka Limited"
+    },
+    {
+      "code": "ARS",
+      "altCode": "RHNV",
+      "name": "Aurenne Alt Resources Limited"
+    },
+    {
+      "code": "ABW",
+      "altCode": "OYCA",
+      "name": "Aurora Absolute Return Fund"
+    },
+    {
+      "code": "SVGN",
+      "altCode": null,
+      "name": "Aurora Dividend Income Fund Unlisted"
+    },
+    {
+      "code": "BGXT",
+      "altCode": null,
+      "name": "Aurora Dividend Income Trust"
+    },
+    {
+      "code": "GWCG",
+      "altCode": null,
+      "name": "Aurora Fortitude Absolute Return Fund"
+    },
+    {
+      "code": "AIB",
+      "altCode": "EOIH",
+      "name": "Aurora Global Income Trust"
+    },
+    {
+      "code": "AUP",
+      "altCode": "CIWZ",
+      "name": "Aurora Property Buy-Write Income Trust"
+    },
+    {
+      "code": "RULP",
+      "altCode": null,
+      "name": "Ausbil Focus Investment Company Limited"
+    },
+    {
+      "code": "MXKP",
+      "altCode": null,
+      "name": "Ausbil Investment Management Limited"
+    },
+    {
+      "code": "AOA",
+      "altCode": "BVHA",
+      "name": "Ausmon Resources Limited"
+    },
+    {
+      "code": "AAT",
+      "altCode": "CRFF",
+      "name": "Australian Adventure Tourism Group Limited"
+    },
+    {
+      "code": "YVSJ",
+      "altCode": null,
+      "name": "Australian Agricultural Company Limited"
+    },
+    {
+      "code": "FLYC",
+      "altCode": null,
+      "name": "Australian Cane Farms Limited"
+    },
+    {
+      "code": "IHPJ",
+      "altCode": null,
+      "name": "Australian Chocolate Pty Limited"
+    },
+    {
+      "code": "AEAE*AET01*AET02*AET03*AET04*AET05*AET06*AET07*AET08*EIAAFR*EIAAFW*EIHCFW",
+      "altCode": "ESNQ",
+      "name": "Australian Ethical Investment Ltd"
+    },
+    {
+      "code": "LJSR",
+      "altCode": null,
+      "name": "Australian Light Minerals Limited"
+    },
+    {
+      "code": "WTQW",
+      "altCode": null,
+      "name": "Australian Metals Group Limited"
+    },
+    {
+      "code": "API",
+      "altCode": "GQGI",
+      "name": "Australian Pharmaceutical Industries Limited"
+    },
+    {
+      "code": "ZQNC",
+      "altCode": null,
+      "name": "Australian Solar Investments Limited"
+    },
+    {
+      "code": "AOF",
+      "altCode": "HSGR",
+      "name": "Australian Unity Office Fund"
+    },
+    {
+      "code": "OOBX",
+      "altCode": null,
+      "name": "Australian Vintage Limited"
+    },
+    {
+      "code": "EHFU",
+      "altCode": null,
+      "name": "Authorised Investment Fund Limited"
+    },
+    {
+      "code": "AVA",
+      "altCode": "ALJY",
+      "name": "AVA Risk Group Limited"
+    },
+    {
+      "code": "NMLZ",
+      "altCode": null,
+      "name": "Aveo Group"
+    },
+    {
+      "code": "WAAK",
+      "altCode": null,
+      "name": "AVet Health Ltd"
+    },
+    {
+      "code": "HTYR",
+      "altCode": null,
+      "name": "AWN Holdings Limited"
+    },
+    {
+      "code": "YFWJ",
+      "altCode": null,
+      "name": "aXcelerate Pty Ltd"
+    },
+    {
+      "code": "AXP",
+      "altCode": "SUUG",
+      "name": "AXP Energy limited"
+    },
+    {
+      "code": "AFNT",
+      "altCode": null,
+      "name": "B2XCare Solutions"
+    },
+    {
+      "code": "QBWO",
+      "altCode": null,
+      "name": "B2XCare Solutions"
+    },
+    {
+      "code": "JGIU",
+      "altCode": null,
+      "name": "Bakup Power Solutions Ltd"
+    },
+    {
+      "code": "NRII",
+      "altCode": null,
+      "name": "Barker Ryan Stewart Pty Limited"
+    },
+    {
+      "code": "DODA",
+      "altCode": null,
+      "name": "Base Air Management Limited"
+    },
+    {
+      "code": "ZICA",
+      "altCode": null,
+      "name": "Base Investment Holdings No.2 Pty Limited"
+    },
+    {
+      "code": "BWAG",
+      "altCode": null,
+      "name": "Base Investment Holdings No.3 Pty Limited"
+    },
+    {
+      "code": "YVVW",
+      "altCode": null,
+      "name": "Base Investment Holdings No.4 Pty Limited"
+    },
+    {
+      "code": "TMKI",
+      "altCode": null,
+      "name": "Base Investment Holdings No.5 Pty Limited"
+    },
+    {
+      "code": "WJBT",
+      "altCode": null,
+      "name": "Base Investment Holdings No.6 Pty Limited"
+    },
+    {
+      "code": "GVPF",
+      "altCode": null,
+      "name": "Base Investment Holdings No.7 Pty Limited"
+    },
+    {
+      "code": "NFKJ",
+      "altCode": null,
+      "name": "Base Investment Holdings No.8 Pty Limited"
+    },
+    {
+      "code": "OOSS",
+      "altCode": null,
+      "name": "Base Investment Holdings Pty Limited"
+    },
+    {
+      "code": "BSE",
+      "altCode": "IPLN",
+      "name": "Base Resources Limited"
+    },
+    {
+      "code": "BMO*BMOOA",
+      "altCode": "MZUQ",
+      "name": "Bastion Minerals Limited"
+    },
+    {
+      "code": "BPT",
+      "altCode": "SVKT",
+      "name": "Beach Energy Limited"
+    },
+    {
+      "code": "WBHR",
+      "altCode": null,
+      "name": "Because Group International Limited"
+    },
+    {
+      "code": "SJNX",
+      "altCode": null,
+      "name": "Benstead Holdaway Capital Pty Ltd"
+    },
+    {
+      "code": "BEO",
+      "altCode": "VIMG",
+      "name": "Beonic Limited"
+    },
+    {
+      "code": "BOX",
+      "altCode": "SRUP",
+      "name": "BetTube Corporation Ltd"
+    },
+    {
+      "code": "IAGK",
+      "altCode": null,
+      "name": "BG&E Group Limited"
+    },
+    {
+      "code": "PPFL",
+      "altCode": null,
+      "name": "Blackfox Property Pty Ltd"
+    },
+    {
+      "code": "XKBW",
+      "altCode": null,
+      "name": "Blackoak Capital"
+    },
+    {
+      "code": "BBT",
+      "altCode": "EJMQ",
+      "name": "BlueBet Holdings Limited"
+    },
+    {
+      "code": "YVGW",
+      "altCode": null,
+      "name": "BoardRoom - Client Services Team Unlisted"
+    },
+    {
+      "code": "BHP*BHP",
+      "altCode": "ZZZZ",
+      "name": "BoardRoom - Demonstration"
+    },
+    {
+      "code": "YQYZ",
+      "altCode": null,
+      "name": "Boardroom Demo - EW Projects"
+    },
+    {
+      "code": "BQSH",
+      "altCode": null,
+      "name": "Boardroom Demo A"
+    },
+    {
+      "code": "MIUD",
+      "altCode": null,
+      "name": "Boardroom Demo B"
+    },
+    {
+      "code": "OFLW",
+      "altCode": null,
+      "name": "Boardroom Demo C"
+    },
+    {
+      "code": "CUJP",
+      "altCode": null,
+      "name": "Boardroom Demo D"
+    },
+    {
+      "code": "TYRJ",
+      "altCode": null,
+      "name": "Boardroom Demo E"
+    },
+    {
+      "code": "REGR",
+      "altCode": null,
+      "name": "Boardroom Pty Limited"
+    },
+    {
+      "code": "SOVY",
+      "altCode": null,
+      "name": "Bojun Agriculture Holdings Limited"
+    },
+    {
+      "code": "NKYB",
+      "altCode": null,
+      "name": "Boston Managed Investments Limited"
+    },
+    {
+      "code": "NGLF",
+      "altCode": null,
+      "name": "Box of Books Holdings Pty Limited"
+    },
+    {
+      "code": "BHL",
+      "altCode": "NEGL",
+      "name": "Boyuan Holdings Limited"
+    },
+    {
+      "code": "YGEA",
+      "altCode": null,
+      "name": "BR ESP Demo Limited"
+    },
+    {
+      "code": "BRN",
+      "altCode": "LWLE",
+      "name": "BrainChip Holdings Ltd"
+    },
+    {
+      "code": "BXB*BXB",
+      "altCode": "COLI",
+      "name": "Brambles Limited"
+    },
+    {
+      "code": "BRG",
+      "altCode": "RYQB",
+      "name": "Breville Group Limited"
+    },
+    {
+      "code": "IVNC",
+      "altCode": null,
+      "name": "Bruce Group Australia"
+    },
+    {
+      "code": "BSA",
+      "altCode": "BBGU",
+      "name": "BSA Limited"
+    },
+    {
+      "code": "BYE",
+      "altCode": "TJNR",
+      "name": "Byron Energy Limited"
+    },
+    {
+      "code": "CDM",
+      "altCode": "CDTR",
+      "name": "Cadence Capital Limited"
+    },
+    {
+      "code": "CDO",
+      "altCode": "MMKA",
+      "name": "Cadence Opportunities Fund Limited"
+    },
+    {
+      "code": "CXL",
+      "altCode": "GOSG",
+      "name": "Calix Limited"
+    },
+    {
+      "code": "BVKA",
+      "altCode": null,
+      "name": "Cannatrek Limited"
+    },
+    {
+      "code": "QOLR",
+      "altCode": null,
+      "name": "Cannindah Resources Limited"
+    },
+    {
+      "code": "HFNU",
+      "altCode": null,
+      "name": "Capital Brewing Co Unit Trust"
+    },
+    {
+      "code": "QZWK",
+      "altCode": null,
+      "name": "Capital Brewing Co. Pty Limited"
+    },
+    {
+      "code": "LBIW",
+      "altCode": null,
+      "name": "Capital Dynamics (Australia) Limited"
+    },
+    {
+      "code": "TKGV",
+      "altCode": null,
+      "name": "Carbon Revolution Limited"
+    },
+    {
+      "code": "CG1",
+      "altCode": "METP",
+      "name": "Carbonxt Group Limited"
+    },
+    {
+      "code": "KBZS",
+      "altCode": null,
+      "name": "Carlisle Health Pty Ltd"
+    },
+    {
+      "code": "CTN",
+      "altCode": "FREY",
+      "name": "Catalina Resources Ltd"
+    },
+    {
+      "code": "CXDR",
+      "altCode": null,
+      "name": "CathRX Ltd"
+    },
+    {
+      "code": "IEBZ",
+      "altCode": null,
+      "name": "Cavom Nominee No.1 Ltd - For AROA BIOSURGERY LIMITED"
+    },
+    {
+      "code": "RDSJ",
+      "altCode": null,
+      "name": "CD III Australian Wholesale Fund"
+    },
+    {
+      "code": "CD1",
+      "altCode": "OQLX",
+      "name": "CD Private Equity Fund I"
+    },
+    {
+      "code": "CD2",
+      "altCode": "ZGBI",
+      "name": "CD Private Equity Fund II"
+    },
+    {
+      "code": "CD3",
+      "altCode": "CVFA",
+      "name": "CD Private Equity Fund III"
+    },
+    {
+      "code": "TYSU",
+      "altCode": null,
+      "name": "CD Private Equity Fund IV"
+    },
+    {
+      "code": "CXM",
+      "altCode": "OKNL",
+      "name": "Centrex Limited"
+    },
+    {
+      "code": "WEPP",
+      "altCode": null,
+      "name": "Centuria Bass"
+    },
+    {
+      "code": "CNI",
+      "altCode": "TJES",
+      "name": "Centuria Capital Group"
+    },
+    {
+      "code": "C2FHA",
+      "altCode": "OQGO",
+      "name": "Centuria Funds Management Limited"
+    },
+    {
+      "code": "JILF",
+      "altCode": null,
+      "name": "Centuria Healthcare Asset Management Limited"
+    },
+    {
+      "code": "CIP",
+      "altCode": "UUVL",
+      "name": "Centuria Industrial REIT"
+    },
+    {
+      "code": "VCMP",
+      "altCode": null,
+      "name": "Centuria Life Limited"
+    },
+    {
+      "code": "COF",
+      "altCode": "CNTM",
+      "name": "Centuria Office REIT"
+    },
+    {
+      "code": "SUIX",
+      "altCode": null,
+      "name": "Centuria Property Funds (Australia)"
+    },
+    {
+      "code": "AGTC",
+      "altCode": null,
+      "name": "Centuria Property Funds (New Zealand)"
+    },
+    {
+      "code": "DNPZ",
+      "altCode": null,
+      "name": "Centuria Urban REIT"
+    },
+    {
+      "code": "SBOG",
+      "altCode": null,
+      "name": "Charter Hall Funds"
+    },
+    {
+      "code": "CHC*CLW*CQE*CQR",
+      "altCode": "GUHX",
+      "name": "Charter Hall Group"
+    },
+    {
+      "code": "CHM",
+      "altCode": "POZV",
+      "name": "Chimeric Therapeutics Limited"
+    },
+    {
+      "code": "DFEQ",
+      "altCode": null,
+      "name": "China Track Limited"
+    },
+    {
+      "code": "LWES",
+      "altCode": null,
+      "name": "CIMB Group Holdings Bhd"
+    },
+    {
+      "code": "RVMI",
+      "altCode": null,
+      "name": "City Developments Limited"
+    },
+    {
+      "code": "DJOO",
+      "altCode": null,
+      "name": "CivilPlus Constructions Pty Ltd"
+    },
+    {
+      "code": "DDBW",
+      "altCode": null,
+      "name": "Clarence Property Corporation Limited"
+    },
+    {
+      "code": "CSS",
+      "altCode": "CSSR",
+      "name": "Clean Seas Seafood Limited"
+    },
+    {
+      "code": "CSX",
+      "altCode": "UBIK",
+      "name": "CleanSpace Holdings Limited"
+    },
+    {
+      "code": "CAM*CAMG",
+      "altCode": "CCLR",
+      "name": "Clime Capital Limited"
+    },
+    {
+      "code": "CIW",
+      "altCode": "IUZT",
+      "name": "Clime Investment Management Limited"
+    },
+    {
+      "code": "SVHR",
+      "altCode": null,
+      "name": "Clime Private Limited"
+    },
+    {
+      "code": "UEMF",
+      "altCode": null,
+      "name": "Coal of Queensland Holdings Limited"
+    },
+    {
+      "code": "COH*COH*COH*COH*COH",
+      "altCode": "ZBYU",
+      "name": "Cochlear Limited"
+    },
+    {
+      "code": "YPYQ",
+      "altCode": null,
+      "name": "Cocoon Data Technologies Limited"
+    },
+    {
+      "code": "CDE*YPBO",
+      "altCode": "AUVR",
+      "name": "Codeifai Limited"
+    },
+    {
+      "code": "AMEW",
+      "altCode": null,
+      "name": "ComfortDelGro Corporation Ltd"
+    },
+    {
+      "code": "EQRG",
+      "altCode": null,
+      "name": "Committed Capital Pty Ltd"
+    },
+    {
+      "code": "CMSL",
+      "altCode": null,
+      "name": "Committed Securities Pty Limited"
+    },
+    {
+      "code": "CCG",
+      "altCode": "GNIH",
+      "name": "Comms Group Limited"
+    },
+    {
+      "code": "QPUS",
+      "altCode": null,
+      "name": "CommStrat Limited"
+    },
+    {
+      "code": "CRD",
+      "altCode": "CIIG",
+      "name": "Conrad Asia Energy Ltd"
+    },
+    {
+      "code": "ONQQ",
+      "altCode": null,
+      "name": "Console Group Pty Limited"
+    },
+    {
+      "code": "PTWM",
+      "altCode": null,
+      "name": "Consolidated Copper Corp"
+    },
+    {
+      "code": "UGWO",
+      "altCode": null,
+      "name": "Contango Income Generator Limited (Takeover Register)"
+    },
+    {
+      "code": "KHYU",
+      "altCode": null,
+      "name": "Copia Investment Partners Limited"
+    },
+    {
+      "code": "COY",
+      "altCode": "COPR",
+      "name": "Coppermoly Limited"
+    },
+    {
+      "code": "WHFQ",
+      "altCode": null,
+      "name": "CorVal"
+    },
+    {
+      "code": "BHWD",
+      "altCode": null,
+      "name": "Countrywide Insurance Holdings Pty Ltd"
+    },
+    {
+      "code": "CCJ",
+      "altCode": "UCHS",
+      "name": "County International Limited"
+    },
+    {
+      "code": "ITJA",
+      "altCode": null,
+      "name": "CPA Australia"
+    },
+    {
+      "code": "ZUMM",
+      "altCode": null,
+      "name": "CPM Alternatives Limited"
+    },
+    {
+      "code": "CGO",
+      "altCode": "PGTG",
+      "name": "CPT Global Limited"
+    },
+    {
+      "code": "ODKF",
+      "altCode": null,
+      "name": "Credabl Holdings Pty Ltd"
+    },
+    {
+      "code": "WQNU",
+      "altCode": null,
+      "name": "Credabl Pty Ltd"
+    },
+    {
+      "code": "CCP",
+      "altCode": "CCPR",
+      "name": "Credit Corp Group Limited"
+    },
+    {
+      "code": "CFM01*CFM02",
+      "altCode": "LXUR",
+      "name": "Cromwell Funds Management Limited"
+    },
+    {
+      "code": "ZNWD",
+      "altCode": null,
+      "name": "Crown Resorts Limited"
+    },
+    {
+      "code": "VRFN",
+      "altCode": null,
+      "name": "Cultiv8 Fund"
+    },
+    {
+      "code": "KLTS",
+      "altCode": null,
+      "name": "CW-ET Pty Limited"
+    },
+    {
+      "code": "FWCA",
+      "altCode": null,
+      "name": "Dampier Gold Limited (for Vango T/O bid)"
+    },
+    {
+      "code": "DDT",
+      "altCode": "DDTR",
+      "name": "DataDot Technology Limited"
+    },
+    {
+      "code": "YZEA",
+      "altCode": null,
+      "name": "Dawney & Co Limited"
+    },
+    {
+      "code": "KTML",
+      "altCode": null,
+      "name": "Dealt Holdings Limited"
+    },
+    {
+      "code": "UISW",
+      "altCode": null,
+      "name": "Demo Company SGP"
+    },
+    {
+      "code": "BCUJ",
+      "altCode": null,
+      "name": "Demo Limited"
+    },
+    {
+      "code": "DRUY",
+      "altCode": null,
+      "name": "Demo Limited 2"
+    },
+    {
+      "code": "MKFB",
+      "altCode": null,
+      "name": "Demo Limited 3"
+    },
+    {
+      "code": "KGLF",
+      "altCode": null,
+      "name": "Demo Limited 4"
+    },
+    {
+      "code": "TGMZ",
+      "altCode": null,
+      "name": "Demo Limited 5"
+    },
+    {
+      "code": "OOCK",
+      "altCode": null,
+      "name": "Demonstration Limited"
+    },
+    {
+      "code": "SKZO",
+      "altCode": null,
+      "name": "Devine Limited"
+    },
+    {
+      "code": "ZYMR",
+      "altCode": null,
+      "name": "Devizo Pty Limited (trading as Payright)"
+    },
+    {
+      "code": "QUHQ",
+      "altCode": null,
+      "name": "DEXUS - Demonstration"
+    },
+    {
+      "code": "APF01*APF02",
+      "altCode": "IAKU",
+      "name": "Dexus Asset Management Limited"
+    },
+    {
+      "code": "DXSC",
+      "altCode": null,
+      "name": "Dexus Capital Investors Limited"
+    },
+    {
+      "code": "FMHL",
+      "altCode": null,
+      "name": "Dexus Funds Management - Retail Equity Funds"
+    },
+    {
+      "code": "NVOK",
+      "altCode": null,
+      "name": "Dexus Jandakot Airport Fund"
+    },
+    {
+      "code": "HTYH",
+      "altCode": null,
+      "name": "Digital Core REIT"
+    },
+    {
+      "code": "TLLD",
+      "altCode": null,
+      "name": "Digital Investment Group Limited"
+    },
+    {
+      "code": "TAIH",
+      "altCode": null,
+      "name": "Direct Group Investments Pty Ltd"
+    },
+    {
+      "code": "SWZK",
+      "altCode": null,
+      "name": "DIT Agtech Limited"
+    },
+    {
+      "code": "ZHGN",
+      "altCode": null,
+      "name": "Diverseco Pty Ltd"
+    },
+    {
+      "code": "XTOH",
+      "altCode": null,
+      "name": "DO NOT USE"
+    },
+    {
+      "code": "KZSI",
+      "altCode": null,
+      "name": "DO NOT USE"
+    },
+    {
+      "code": "TSQM",
+      "altCode": null,
+      "name": "DO NOT USE SAMPLE"
+    },
+    {
+      "code": "LNUU",
+      "altCode": null,
+      "name": "Doctors.com.au Pty Ltd"
+    },
+    {
+      "code": "DCL",
+      "altCode": "DYYT",
+      "name": "DomaCom Limited"
+    },
+    {
+      "code": "YTIX",
+      "altCode": null,
+      "name": "Dominion Income Trust (Wholesale Unlisted)"
+    },
+    {
+      "code": "DN1",
+      "altCode": "RFFS",
+      "name": "Dominion Income Trust 1"
+    },
+    {
+      "code": "DNA",
+      "altCode": "UFEV",
+      "name": "Donaco International Limited"
+    },
+    {
+      "code": "SZII",
+      "altCode": null,
+      "name": "Dongfang Modern Agriculture Holding Group Limited"
+    },
+    {
+      "code": "NUVI",
+      "altCode": null,
+      "name": "DONT USE"
+    },
+    {
+      "code": "N/A*NA",
+      "altCode": "AENR",
+      "name": "Dr Me Pty Ltd"
+    },
+    {
+      "code": "WECO",
+      "altCode": null,
+      "name": "Dunphy Pty Ltd ATF Capital Brewing Co Unit Trust"
+    },
+    {
+      "code": "DWS",
+      "altCode": "SDEO",
+      "name": "DWS Limited"
+    },
+    {
+      "code": "EP1",
+      "altCode": "FESK",
+      "name": "E&P Financial Group Limited"
+    },
+    {
+      "code": "EMS",
+      "altCode": "TBBD",
+      "name": "Eastern Metals Limited"
+    },
+    {
+      "code": "DTID",
+      "altCode": null,
+      "name": "ECC Pharm Limited"
+    },
+    {
+      "code": "ESL",
+      "altCode": "AMMM",
+      "name": "Eco Systems Ltd"
+    },
+    {
+      "code": "YUPL",
+      "altCode": null,
+      "name": "Ecoscape Australia Pty Ltd"
+    },
+    {
+      "code": "XPKI",
+      "altCode": null,
+      "name": "EES Environmental Energy Solutions Inc"
+    },
+    {
+      "code": "LFOY",
+      "altCode": null,
+      "name": "Eildon Capital Group Takeover Register"
+    },
+    {
+      "code": "ELD",
+      "altCode": "CAHB",
+      "name": "Elders Limited"
+    },
+    {
+      "code": "GZHZ",
+      "altCode": null,
+      "name": "Elemental Energy Technologies Limited"
+    },
+    {
+      "code": "ELT",
+      "altCode": "JUWX",
+      "name": "Elementos Limited"
+    },
+    {
+      "code": "RYPB",
+      "altCode": null,
+      "name": "Elevate Money Limited"
+    },
+    {
+      "code": "DFKG",
+      "altCode": null,
+      "name": "Elsmore Resources Ltd"
+    },
+    {
+      "code": "EMB",
+      "altCode": "XXPO",
+      "name": "Embelton Limited"
+    },
+    {
+      "code": "WWOG",
+      "altCode": null,
+      "name": "Emprevo Limited"
+    },
+    {
+      "code": "QTME",
+      "altCode": null,
+      "name": "Endeavour Beverages Pty Ltd"
+    },
+    {
+      "code": "DAVV",
+      "altCode": null,
+      "name": "Endless Solar Corporation Limited"
+    },
+    {
+      "code": "XZAV",
+      "altCode": null,
+      "name": "Engeny"
+    },
+    {
+      "code": "EXO",
+      "altCode": "HWAV",
+      "name": "Ennox Group Ltd"
+    },
+    {
+      "code": "ENV*ENVO",
+      "altCode": "KSLR",
+      "name": "Enova Mining Limited"
+    },
+    {
+      "code": "EVS",
+      "altCode": "FAIO",
+      "name": "Envirosuite Limited"
+    },
+    {
+      "code": "EPX",
+      "altCode": "CAFR",
+      "name": "EP&T Global Limited"
+    },
+    {
+      "code": "EQS",
+      "altCode": "GVXK",
+      "name": "Equity Story Group Ltd"
+    },
+    {
+      "code": "IERV",
+      "altCode": null,
+      "name": "Equity Trustees Limited"
+    },
+    {
+      "code": "WSRD",
+      "altCode": null,
+      "name": "ERM Power Limited"
+    },
+    {
+      "code": "CCUP",
+      "altCode": null,
+      "name": "ESAB Investments Pty Limited"
+    },
+    {
+      "code": "EGF",
+      "altCode": "GKET",
+      "name": "Evans & Partners Global Flagship Fund"
+    },
+    {
+      "code": "OWHP",
+      "altCode": null,
+      "name": "Evolt Holdings Pty Ltd"
+    },
+    {
+      "code": "GMWP",
+      "altCode": null,
+      "name": "Evolution Trustees Limited"
+    },
+    {
+      "code": "LQOL",
+      "altCode": null,
+      "name": "EXFO Inc"
+    },
+    {
+      "code": "EXP",
+      "altCode": "ETQX",
+      "name": "Experience Co Limited"
+    },
+    {
+      "code": "EZZ",
+      "altCode": "PJSZ",
+      "name": "EZZ Life Science Holdings Limited"
+    },
+    {
+      "code": "LVRQ",
+      "altCode": null,
+      "name": "Falcon Oil & Gas Australia Limited"
+    },
+    {
+      "code": "MQKP",
+      "altCode": null,
+      "name": "FAR Limited (Takeover register Bid by Samuel Terry Asset Management P/L)"
+    },
+    {
+      "code": "NVHQ",
+      "altCode": null,
+      "name": "Fermentum Pty Ltd"
+    },
+    {
+      "code": "KONL",
+      "altCode": null,
+      "name": "Fetch Metals Ltd"
+    },
+    {
+      "code": "ALH01*ALH02*ALH03*BAM06*GCC01*KAP01*MLO02*XALG*XASG",
+      "altCode": "LDWG",
+      "name": "Fidante Partners Limited"
+    },
+    {
+      "code": "BAM03*BAM04*BAM05",
+      "altCode": "GZSI",
+      "name": "Fidante Partners Services Limited"
+    },
+    {
+      "code": "ZMPH",
+      "altCode": null,
+      "name": "FIIG Securities Limited"
+    },
+    {
+      "code": "FZR",
+      "altCode": "RLKD",
+      "name": "Fitzroy River Corporation Ltd"
+    },
+    {
+      "code": "FSI*FSIGA",
+      "altCode": "TQHM",
+      "name": "Flagship Investments Limited"
+    },
+    {
+      "code": "YOAF",
+      "altCode": null,
+      "name": "Flexitiger Pty Ltd"
+    },
+    {
+      "code": "FLC",
+      "altCode": "LDVG",
+      "name": "Fluence Corporation Limited"
+    },
+    {
+      "code": "CLIE",
+      "altCode": null,
+      "name": "Food Empire Holdings Limited"
+    },
+    {
+      "code": "FNVC",
+      "altCode": null,
+      "name": "Fort Street Real Estate Capital Fund I"
+    },
+    {
+      "code": "EOAC",
+      "altCode": null,
+      "name": "Fort Street Real Estate Capital Fund II"
+    },
+    {
+      "code": "QJAY",
+      "altCode": null,
+      "name": "Fort Street Real Estate Capital Fund III"
+    },
+    {
+      "code": "PEOR",
+      "altCode": null,
+      "name": "Fort Street Real Estate Capital Fund IV"
+    },
+    {
+      "code": "FOS",
+      "altCode": "SIWT",
+      "name": "FOS Capital Limited"
+    },
+    {
+      "code": "GEZN",
+      "altCode": null,
+      "name": "Frazis Capital Partners Limited"
+    },
+    {
+      "code": "FCG",
+      "altCode": "QGDS",
+      "name": "Freedom Care Group Holdings Limited"
+    },
+    {
+      "code": "FLN",
+      "altCode": "LDNW",
+      "name": "Freelancer Limited"
+    },
+    {
+      "code": "CXKJ",
+      "altCode": null,
+      "name": "Freestyle Technology Limited"
+    },
+    {
+      "code": "WSOE",
+      "altCode": null,
+      "name": "FSREC Property Fund"
+    },
+    {
+      "code": "FGX",
+      "altCode": "MEWS",
+      "name": "Future Generation Australia Limited"
+    },
+    {
+      "code": "FGG",
+      "altCode": "MUID",
+      "name": "Future Generation Global Limited"
+    },
+    {
+      "code": "IZEY",
+      "altCode": null,
+      "name": "Future Generation Women"
+    },
+    {
+      "code": "BQLC",
+      "altCode": null,
+      "name": "Future Group Financial Services Pty Limited"
+    },
+    {
+      "code": "TBRD",
+      "altCode": null,
+      "name": "Future Group Services (Australia) Pty Limited"
+    },
+    {
+      "code": "KSIK",
+      "altCode": null,
+      "name": "Future Super Investment Services Pty Ltd"
+    },
+    {
+      "code": "G50",
+      "altCode": "QRON",
+      "name": "G50 Corp Limited"
+    },
+    {
+      "code": "GGX",
+      "altCode": "GGRD",
+      "name": "Gas2Grid Limited"
+    },
+    {
+      "code": "GTH",
+      "altCode": "AZEY",
+      "name": "Gathid Ltd"
+    },
+    {
+      "code": "GDG",
+      "altCode": "HNBP",
+      "name": "Generation Development Group Limited"
+    },
+    {
+      "code": "GSS",
+      "altCode": "ZLRK",
+      "name": "Genetic Signatures Limited"
+    },
+    {
+      "code": "FTEG",
+      "altCode": null,
+      "name": "Genex Power Limited"
+    },
+    {
+      "code": "GPR",
+      "altCode": "GEOP",
+      "name": "Geopacific Resources Limited"
+    },
+    {
+      "code": "MADY",
+      "altCode": null,
+      "name": "Gertrude Biomedical Pty Ltd"
+    },
+    {
+      "code": "BTSW",
+      "altCode": null,
+      "name": "GFG Investment Management Pty Ltd"
+    },
+    {
+      "code": "GLA",
+      "altCode": "CINE",
+      "name": "Gladiator Resources Limited"
+    },
+    {
+      "code": "QIVO",
+      "altCode": null,
+      "name": "Glasgow Global Group Inc"
+    },
+    {
+      "code": "GC1*GC1PA",
+      "altCode": "XNFW",
+      "name": "Glennon Small Companies Limited"
+    },
+    {
+      "code": "GLE",
+      "altCode": "HVEF",
+      "name": "GLG Corp Ltd"
+    },
+    {
+      "code": "GDC",
+      "altCode": "ALNW",
+      "name": "Global Data Centre Group"
+    },
+    {
+      "code": "ARPQ",
+      "altCode": null,
+      "name": "Global Distribution Partners Pty Ltd"
+    },
+    {
+      "code": "GLH",
+      "altCode": "IYML",
+      "name": "Global Health Limited"
+    },
+    {
+      "code": "GFL*GFLGA",
+      "altCode": "KJJU",
+      "name": "Global Masters Fund Limited"
+    },
+    {
+      "code": "LRPH",
+      "altCode": null,
+      "name": "GlyTherix Limited"
+    },
+    {
+      "code": "VITU",
+      "altCode": null,
+      "name": "Go-Jek"
+    },
+    {
+      "code": "GO8",
+      "altCode": "TSKR",
+      "name": "GoConnect Limited"
+    },
+    {
+      "code": "BSEN",
+      "altCode": null,
+      "name": "Gold and Copper Resources Pty Limited"
+    },
+    {
+      "code": "QNSO",
+      "altCode": null,
+      "name": "Gold Green Real Estate Group Limited"
+    },
+    {
+      "code": "GMN*GMNO*GMNOB*GMNOC",
+      "altCode": "QGEX",
+      "name": "Gold Mountain Limited"
+    },
+    {
+      "code": "BIEE",
+      "altCode": null,
+      "name": "Golden Globe Resources Ltd"
+    },
+    {
+      "code": "GPS",
+      "altCode": "SNYJ",
+      "name": "GPS Alliance Holdings Limited"
+    },
+    {
+      "code": "KDVY",
+      "altCode": null,
+      "name": "GPT Funds Management Limited"
+    },
+    {
+      "code": "EJNX",
+      "altCode": null,
+      "name": "Grange Resources Limited"
+    },
+    {
+      "code": "YMYV",
+      "altCode": null,
+      "name": "Granite Power Limited"
+    },
+    {
+      "code": "OLFP",
+      "altCode": null,
+      "name": "Greenfield Company Australia Pty Ltd"
+    },
+    {
+      "code": "XAKD",
+      "altCode": null,
+      "name": "GreenSync Holdings Pty Ltd"
+    },
+    {
+      "code": "GWON",
+      "altCode": null,
+      "name": "Growthpoint Funds Management"
+    },
+    {
+      "code": "GCI",
+      "altCode": "WZNO",
+      "name": "Gryphon Capital Income Trust"
+    },
+    {
+      "code": "MIUS",
+      "altCode": null,
+      "name": "Guardian Pty Ltd"
+    },
+    {
+      "code": "WHPP",
+      "altCode": null,
+      "name": "Haben Property Fund"
+    },
+    {
+      "code": "FLJD",
+      "altCode": null,
+      "name": "Hadley Green Asset Management Pty Ltd"
+    },
+    {
+      "code": "SVIV",
+      "altCode": null,
+      "name": "Haixi Pharmaceutical International Holdings Limited"
+    },
+    {
+      "code": "HAL",
+      "altCode": "WOMD",
+      "name": "HALO Technologies Holdings Ltd"
+    },
+    {
+      "code": "HT8",
+      "altCode": "BWRI",
+      "name": "Harris Technology Group Limited"
+    },
+    {
+      "code": "HVN",
+      "altCode": "HVNR",
+      "name": "Harvey Norman Holdings Limited"
+    },
+    {
+      "code": "HM1",
+      "altCode": "IUID",
+      "name": "Hearts and Minds Investments Limited"
+    },
+    {
+      "code": "HRE",
+      "altCode": "EBKX",
+      "name": "Heavy Rare Earths Limited"
+    },
+    {
+      "code": "SINI",
+      "altCode": null,
+      "name": "Heemskirk Consolidated Limited"
+    },
+    {
+      "code": "HBA",
+      "altCode": "SODR",
+      "name": "Heritage Brands Limited"
+    },
+    {
+      "code": "HHY",
+      "altCode": "MPZQ",
+      "name": "HHY Fund"
+    },
+    {
+      "code": "SEDO",
+      "altCode": null,
+      "name": "Hillam Architects"
+    },
+    {
+      "code": "HGO",
+      "altCode": "BALS",
+      "name": "Hillgrove Resources Limited"
+    },
+    {
+      "code": "DWTH",
+      "altCode": null,
+      "name": "Holgate Group Pty Limited"
+    },
+    {
+      "code": "CIXL",
+      "altCode": null,
+      "name": "Holon Investments Australia Limited"
+    },
+    {
+      "code": "YOAG",
+      "altCode": null,
+      "name": "Hong Leong Finance Limited"
+    },
+    {
+      "code": "HZN",
+      "altCode": "HZNR",
+      "name": "Horizon Oil Limited"
+    },
+    {
+      "code": "KCXL",
+      "altCode": null,
+      "name": "HRL Holdings Limited Takeover Register Only"
+    },
+    {
+      "code": "ZKSY",
+      "altCode": null,
+      "name": "HSBC Bank Australia Limited"
+    },
+    {
+      "code": "NPVZ",
+      "altCode": null,
+      "name": "HSBC Demo Fund"
+    },
+    {
+      "code": "HYD",
+      "altCode": "BEEO",
+      "name": "Hydrix Limited"
+    },
+    {
+      "code": "ICQ",
+      "altCode": "UDGC",
+      "name": "iCar Asia Limited"
+    },
+    {
+      "code": "XOQB",
+      "altCode": null,
+      "name": "ICPF Group"
+    },
+    {
+      "code": "ICS",
+      "altCode": "ICSR",
+      "name": "ICSGlobal Limited"
+    },
+    {
+      "code": "ID8",
+      "altCode": "MMHN",
+      "name": "Identitii Limited"
+    },
+    {
+      "code": "ZOKH",
+      "altCode": null,
+      "name": "IHH Healthcare Berhad"
+    },
+    {
+      "code": "NJTD",
+      "altCode": null,
+      "name": "Imagine Intelligent Materials Limited"
+    },
+    {
+      "code": "IBX",
+      "altCode": "CTLM",
+      "name": "Imagion Biosystems Limited"
+    },
+    {
+      "code": "IMM",
+      "altCode": "SYNZ",
+      "name": "Immutep Limited"
+    },
+    {
+      "code": "MXBP",
+      "altCode": null,
+      "name": "Implicit Bioscience Ltd"
+    },
+    {
+      "code": "AXWZ",
+      "altCode": null,
+      "name": "IMRA Surgical Pty Ltd"
+    },
+    {
+      "code": "CWZ*IAM*IAMOB",
+      "altCode": "RYRQ",
+      "name": "Income Asset Management Group"
+    },
+    {
+      "code": "XUEV",
+      "altCode": null,
+      "name": "Indebted Holdings Pty Limited"
+    },
+    {
+      "code": "OSKD",
+      "altCode": null,
+      "name": "Inner East Community Finance Limited"
+    },
+    {
+      "code": "IFL",
+      "altCode": "GZZH",
+      "name": "Insignia Financial Ltd"
+    },
+    {
+      "code": "XKTN",
+      "altCode": null,
+      "name": "Inspiretek Holdings Limited"
+    },
+    {
+      "code": "BYJL",
+      "altCode": null,
+      "name": "Instaclustr Pty Limited"
+    },
+    {
+      "code": "YQSM",
+      "altCode": null,
+      "name": "Intecracy International Pty Ltd"
+    },
+    {
+      "code": "OHVF",
+      "altCode": null,
+      "name": "Intega Group Limited"
+    },
+    {
+      "code": "IBML",
+      "altCode": null,
+      "name": "International Base Metals Limited"
+    },
+    {
+      "code": "RRPZ",
+      "altCode": null,
+      "name": "International Cobalt Resources Limited"
+    },
+    {
+      "code": "KXMF",
+      "altCode": null,
+      "name": "Invest Blue Pty Limited"
+    },
+    {
+      "code": "CXVY",
+      "altCode": null,
+      "name": "Invest Blue Support Pty Limited"
+    },
+    {
+      "code": "IVX",
+      "altCode": "MEGO",
+      "name": "Invion Limited"
+    },
+    {
+      "code": "IOD",
+      "altCode": "ZMFD",
+      "name": "IODM Limited"
+    },
+    {
+      "code": "INR",
+      "altCode": "BCXT",
+      "name": "ioneer Ltd"
+    },
+    {
+      "code": "IBC",
+      "altCode": "IBCR",
+      "name": "Ironbark Capital Limited"
+    },
+    {
+      "code": "ITDR",
+      "altCode": null,
+      "name": "ITL Health Group Limited"
+    },
+    {
+      "code": "VBPR",
+      "altCode": null,
+      "name": "Jaga Alternative Income Fund"
+    },
+    {
+      "code": "UPNG",
+      "altCode": null,
+      "name": "JAWS Architects"
+    },
+    {
+      "code": "KAM",
+      "altCode": "KAMR",
+      "name": "K2 Asset Management Holdings Ltd"
+    },
+    {
+      "code": "FHPP",
+      "altCode": null,
+      "name": "K2 Asset Management Ltd"
+    },
+    {
+      "code": "KSM",
+      "altCode": "TSHO",
+      "name": "K2 Australian Small Cap Fund"
+    },
+    {
+      "code": "KTE",
+      "altCode": "TOMA",
+      "name": "K2 Energy Limited"
+    },
+    {
+      "code": "KII",
+      "altCode": "UOFN",
+      "name": "K2 Global Equities Fund (Hedge Fund)"
+    },
+    {
+      "code": "KGI",
+      "altCode": "BVIU",
+      "name": "Kaizen Global Investments Limited"
+    },
+    {
+      "code": "ZZFL",
+      "altCode": null,
+      "name": "Kapstream Capital"
+    },
+    {
+      "code": "ZSPP",
+      "altCode": null,
+      "name": "Karawara Minerals Limited"
+    },
+    {
+      "code": "KLS",
+      "altCode": "KJKI",
+      "name": "Kelsian Group Limited"
+    },
+    {
+      "code": "MECH",
+      "altCode": null,
+      "name": "Keppel Pacific Oak US REIT"
+    },
+    {
+      "code": "HWIW",
+      "altCode": null,
+      "name": "Keppel People Services"
+    },
+    {
+      "code": "GITB",
+      "altCode": null,
+      "name": "Keppel REIT"
+    },
+    {
+      "code": "TUZV",
+      "altCode": null,
+      "name": "Keybridge Capital Limited"
+    },
+    {
+      "code": "NLFT",
+      "altCode": null,
+      "name": "Keystone Asset Management Limited"
+    },
+    {
+      "code": "ECJX",
+      "altCode": null,
+      "name": "Kilter Rural"
+    },
+    {
+      "code": "IETE",
+      "altCode": null,
+      "name": "Kingsmede Partners Pty Ltd"
+    },
+    {
+      "code": "KKC",
+      "altCode": "BSYB",
+      "name": "KKR Credit Income Fund"
+    },
+    {
+      "code": "KWRX",
+      "altCode": null,
+      "name": "KM Property Funds Limited"
+    },
+    {
+      "code": "KNM",
+      "altCode": "QIIB",
+      "name": "KneoMedia Limited"
+    },
+    {
+      "code": "KNH",
+      "altCode": "JHSV",
+      "name": "Koon Holdings Limited"
+    },
+    {
+      "code": "BNRV",
+      "altCode": null,
+      "name": "Lagenda Properties Berhad"
+    },
+    {
+      "code": "LKO",
+      "altCode": "HJAE",
+      "name": "Lakes Blue Energy NL"
+    },
+    {
+      "code": "UZFC",
+      "altCode": null,
+      "name": "Lan Tian Pty Ltd"
+    },
+    {
+      "code": "LRK",
+      "altCode": "MTIR",
+      "name": "Lark Distilling Co. Ltd"
+    },
+    {
+      "code": "FYMQ",
+      "altCode": null,
+      "name": "Larus Energy Limited"
+    },
+    {
+      "code": "LBL",
+      "altCode": "LASB",
+      "name": "LaserBond Limited"
+    },
+    {
+      "code": "DLXE",
+      "altCode": null,
+      "name": "Lateral Pharma Pty Limited"
+    },
+    {
+      "code": "NVJX",
+      "altCode": null,
+      "name": "Laundromap Holdings Limited"
+    },
+    {
+      "code": "S+",
+      "altCode": "YVVT",
+      "name": "Learning Technologies Group Pty Limited"
+    },
+    {
+      "code": "TCGL",
+      "altCode": null,
+      "name": "LegalVision ILP Pty Ltd"
+    },
+    {
+      "code": "TFMB",
+      "altCode": null,
+      "name": "Lendlease Investment Management (Australia) Pty Limited"
+    },
+    {
+      "code": "QNKN",
+      "altCode": null,
+      "name": "Licella Holdings Limited"
+    },
+    {
+      "code": "IXAT",
+      "altCode": null,
+      "name": "Lionsbridge Pty Limited"
+    },
+    {
+      "code": "LUIX",
+      "altCode": null,
+      "name": "Liontrust Investment Partners LLP"
+    },
+    {
+      "code": "LPI",
+      "altCode": "VHTH",
+      "name": "Lithium Power International Limited"
+    },
+    {
+      "code": "HWZC",
+      "altCode": null,
+      "name": "Litigation Lending Services Limited"
+    },
+    {
+      "code": "FCLV",
+      "altCode": null,
+      "name": "LJ Hooker Commercial Central Coast"
+    },
+    {
+      "code": "KDYH",
+      "altCode": null,
+      "name": "Loftus Peak - Orca Global Disruption Fund"
+    },
+    {
+      "code": "QMKE",
+      "altCode": null,
+      "name": "Lucknow Gold Limited"
+    },
+    {
+      "code": "WCBS",
+      "altCode": null,
+      "name": "Lumiant Pty Ltd"
+    },
+    {
+      "code": "LYC",
+      "altCode": "CKVG",
+      "name": "Lynas Rare Earths Limited"
+    },
+    {
+      "code": "VTAR",
+      "altCode": null,
+      "name": "MA Asset Management"
+    },
+    {
+      "code": "MA1",
+      "altCode": "JWLE",
+      "name": "MA Credit Income Trust"
+    },
+    {
+      "code": "MAF",
+      "altCode": "MALR",
+      "name": "MA Financial Group Limited"
+    },
+    {
+      "code": "PULZ",
+      "altCode": null,
+      "name": "Macquarie Gold Limited"
+    },
+    {
+      "code": "MAQ",
+      "altCode": "MAQR",
+      "name": "Macquarie Technology Group Limited"
+    },
+    {
+      "code": "MFG*MFGO",
+      "altCode": "PENR",
+      "name": "Magellan Financial Group Ltd"
+    },
+    {
+      "code": "MGG",
+      "altCode": "HKOD",
+      "name": "Magellan Global Trust"
+    },
+    {
+      "code": "MBH",
+      "altCode": "MRKG",
+      "name": "Maggie Beer Holdings Limited"
+    },
+    {
+      "code": "MGRT",
+      "altCode": null,
+      "name": "Magnet Capital"
+    },
+    {
+      "code": "ETEA",
+      "altCode": null,
+      "name": "Magnetica Limited"
+    },
+    {
+      "code": "MGL",
+      "altCode": "UEVO",
+      "name": "Magontec Limited"
+    },
+    {
+      "code": "XAXS",
+      "altCode": null,
+      "name": "Manning Asset Management"
+    },
+    {
+      "code": "NMGM",
+      "altCode": null,
+      "name": "Mapletree"
+    },
+    {
+      "code": "ZGSF",
+      "altCode": null,
+      "name": "Markham Real Estate Partners (10) Pty Limited"
+    },
+    {
+      "code": "QRJE",
+      "altCode": null,
+      "name": "Markham Real Estate Partners (Green Square) Pty Limited"
+    },
+    {
+      "code": "XWXF",
+      "altCode": null,
+      "name": "Markham Real Estate Partners Pty Limited"
+    },
+    {
+      "code": "TGXA",
+      "altCode": null,
+      "name": "Marprop"
+    },
+    {
+      "code": "PKWQ",
+      "altCode": null,
+      "name": "MARQ Private Funds Pty Ltd"
+    },
+    {
+      "code": "QVYE",
+      "altCode": null,
+      "name": "Maxsec Group Limited"
+    },
+    {
+      "code": "LGFH",
+      "altCode": null,
+      "name": "MC Mining Limited Takeover Register"
+    },
+    {
+      "code": "SYWQ",
+      "altCode": null,
+      "name": "McWilliam's Wines Group Limited"
+    },
+    {
+      "code": "MMR*MMRO",
+      "altCode": "TNIF",
+      "name": "MEC Resources Limited"
+    },
+    {
+      "code": "MGZ",
+      "altCode": "MGZR",
+      "name": "Medigard Limited"
+    },
+    {
+      "code": "MAY",
+      "altCode": "WPAO",
+      "name": "Melbana Energy Limited"
+    },
+    {
+      "code": "MEM",
+      "altCode": "NUSP",
+      "name": "Memphasys Limited"
+    },
+    {
+      "code": "GTKT",
+      "altCode": null,
+      "name": "Mendoza Limited"
+    },
+    {
+      "code": "FIMG",
+      "altCode": null,
+      "name": "Mesynthes Nominee Ltd - For AROA BIOSURGERY LIMITED"
+    },
+    {
+      "code": "MTS",
+      "altCode": "MTSR",
+      "name": "Metcash Limited"
+    },
+    {
+      "code": "MFF",
+      "altCode": "MFFR",
+      "name": "MFF Capital Investments Limited"
+    },
+    {
+      "code": "TVSE",
+      "altCode": null,
+      "name": "Miles Real Estate"
+    },
+    {
+      "code": "CIWN",
+      "altCode": null,
+      "name": "Minomic International Ltd"
+    },
+    {
+      "code": "KXTI",
+      "altCode": null,
+      "name": "Mint Payments Limited"
+    },
+    {
+      "code": "XUHH",
+      "altCode": null,
+      "name": "MIQ Capital Pty Ltd"
+    },
+    {
+      "code": "TBTM",
+      "altCode": null,
+      "name": "Mirvac Funds Management Australia Limited"
+    },
+    {
+      "code": "KAQZ",
+      "altCode": null,
+      "name": "Mittenmet Limited"
+    },
+    {
+      "code": "KAOX",
+      "altCode": null,
+      "name": "Mitula Group Pty Ltd"
+    },
+    {
+      "code": "MOB",
+      "altCode": "CFXI",
+      "name": "Mobilicom Limited"
+    },
+    {
+      "code": "IAQZ",
+      "altCode": null,
+      "name": "Modern Metals Limited"
+    },
+    {
+      "code": "QIAH",
+      "altCode": null,
+      "name": "MR D.I.Y. GROUP (M) Berhad"
+    },
+    {
+      "code": "RUTG",
+      "altCode": null,
+      "name": "Multicom Resources Limited"
+    },
+    {
+      "code": "MRI",
+      "altCode": "KMXG",
+      "name": "My Rewards International Limited"
+    },
+    {
+      "code": "WXRR",
+      "altCode": null,
+      "name": "MyDeal.com.au Limited"
+    },
+    {
+      "code": "VGPG",
+      "altCode": null,
+      "name": "Nano Platform Pty Ltd"
+    },
+    {
+      "code": "CQVE",
+      "altCode": null,
+      "name": "NanoFilm Technologies International  Limited"
+    },
+    {
+      "code": "NNO",
+      "altCode": "RAGO",
+      "name": "Nanopac Innovation Limited"
+    },
+    {
+      "code": "NAN",
+      "altCode": "CCLU",
+      "name": "Nanosonics Limited"
+    },
+    {
+      "code": "RSFM",
+      "altCode": null,
+      "name": "NAOS Asset Management Limited"
+    },
+    {
+      "code": "NCC*NCCGA*NCCO",
+      "altCode": "MINO",
+      "name": "NAOS Emerging Opportunities Company Limited"
+    },
+    {
+      "code": "NAC*NACGA*NACO",
+      "altCode": "ZAIB",
+      "name": "NAOS Ex-50 Opportunities Company Limited"
+    },
+    {
+      "code": "PTSN",
+      "altCode": null,
+      "name": "NAOS Private Opportunities Fund"
+    },
+    {
+      "code": "NSC",
+      "altCode": "TWHZ",
+      "name": "NAOS Small Cap Opportunities Company Limited"
+    },
+    {
+      "code": "NHRR",
+      "altCode": null,
+      "name": "National Hire Group Limited"
+    },
+    {
+      "code": "WZVP",
+      "altCode": null,
+      "name": "Nature One Dairy (Australia) Pte Ltd"
+    },
+    {
+      "code": "JKMW",
+      "altCode": null,
+      "name": "NB Global Corporate Income Trust"
+    },
+    {
+      "code": "EOZX",
+      "altCode": null,
+      "name": "Neuberger Berman"
+    },
+    {
+      "code": "AGIF",
+      "altCode": null,
+      "name": "NeuralDX Limited"
+    },
+    {
+      "code": "POPC",
+      "altCode": null,
+      "name": "Newmark Property REIT"
+    },
+    {
+      "code": "NFM",
+      "altCode": "MJKS",
+      "name": "NFM Group Limited"
+    },
+    {
+      "code": "NGE",
+      "altCode": "NGER",
+      "name": "NGE Capital Limited"
+    },
+    {
+      "code": "KOPC",
+      "altCode": null,
+      "name": "NOT USED"
+    },
+    {
+      "code": "MQIZ",
+      "altCode": null,
+      "name": "Novigi Pty Ltd"
+    },
+    {
+      "code": "PUXB",
+      "altCode": null,
+      "name": "Now Finance Group Holdings Limited"
+    },
+    {
+      "code": "NSX",
+      "altCode": "NSXR",
+      "name": "NSX Limited"
+    },
+    {
+      "code": "DZFA",
+      "altCode": null,
+      "name": "NutraCare Australia Pty Ltd"
+    },
+    {
+      "code": "GYHO",
+      "altCode": null,
+      "name": "Nutura Organic Limited"
+    },
+    {
+      "code": "SMML",
+      "altCode": null,
+      "name": "nViso SA"
+    },
+    {
+      "code": "OCL",
+      "altCode": "OCLR",
+      "name": "Objective Corporation Limited"
+    },
+    {
+      "code": "OCT",
+      "altCode": "ZAAG",
+      "name": "Octava Minerals Limited"
+    },
+    {
+      "code": "LOVL",
+      "altCode": null,
+      "name": "Office Solutions IT Pty Ltd"
+    },
+    {
+      "code": "OLHR",
+      "altCode": null,
+      "name": "Oldfields Holdings Limited"
+    },
+    {
+      "code": "OLI",
+      "altCode": "LTLZ",
+      "name": "Oliver's Real Food Limited"
+    },
+    {
+      "code": "OSL*OSLO*OSLOB*OSLOC",
+      "altCode": "FPES",
+      "name": "OncoSil Medical Ltd"
+    },
+    {
+      "code": "WIRD",
+      "altCode": null,
+      "name": "OneAll International Pty Ltd"
+    },
+    {
+      "code": "ZHEA",
+      "altCode": null,
+      "name": "Orca Funds Management"
+    },
+    {
+      "code": "ORG",
+      "altCode": "JQHU",
+      "name": "Origin Energy Limited"
+    },
+    {
+      "code": "UQCA",
+      "altCode": null,
+      "name": "Orion Consulting Engineers Pty Limited"
+    },
+    {
+      "code": "XWYJ",
+      "altCode": null,
+      "name": "Orpheus Minerals Limited"
+    },
+    {
+      "code": "ORP",
+      "altCode": "FJAG",
+      "name": "Orpheus Uranium Limited"
+    },
+    {
+      "code": "LLRU",
+      "altCode": null,
+      "name": "Over Fifty Guardian Friendly Society Limited"
+    },
+    {
+      "code": "PYEV",
+      "altCode": null,
+      "name": "OZ Minerals Limited"
+    },
+    {
+      "code": "IHFZ",
+      "altCode": null,
+      "name": "Ozgrowth Limited"
+    },
+    {
+      "code": "P2P",
+      "altCode": "WXSG",
+      "name": "P2P Transport Limited"
+    },
+    {
+      "code": "FJLI",
+      "altCode": null,
+      "name": "Pacific Equity Partners (PEP)"
+    },
+    {
+      "code": "PCK",
+      "altCode": "FPGA",
+      "name": "PainChek Limited"
+    },
+    {
+      "code": "SVRG",
+      "altCode": null,
+      "name": "Paniai Gold Limited"
+    },
+    {
+      "code": "BABH",
+      "altCode": null,
+      "name": "Paradyn Capital"
+    },
+    {
+      "code": "GCYH",
+      "altCode": null,
+      "name": "Partners Group Global Income Fund"
+    },
+    {
+      "code": "KLGZ",
+      "altCode": null,
+      "name": "Payright Limited"
+    },
+    {
+      "code": "PPM",
+      "altCode": "ZCPN",
+      "name": "Pepper Money Limited"
+    },
+    {
+      "code": "PER",
+      "altCode": "CAMQ",
+      "name": "Percheron Therapeutics Limited"
+    },
+    {
+      "code": "YMLH",
+      "altCode": null,
+      "name": "Peter Ellsmore & Associates"
+    },
+    {
+      "code": "PSA",
+      "altCode": "PSAR",
+      "name": "Petsec Energy Ltd"
+    },
+    {
+      "code": "FGOM",
+      "altCode": null,
+      "name": "Petsure (Australia) Pty Ltd"
+    },
+    {
+      "code": "LBWW",
+      "altCode": null,
+      "name": "Pharmaceutical International Holdings Limited"
+    },
+    {
+      "code": "PHIR",
+      "altCode": null,
+      "name": "Phileo Australia Pty Ltd"
+    },
+    {
+      "code": "TFZU",
+      "altCode": null,
+      "name": "Pier Two Holdings Pty Ltd"
+    },
+    {
+      "code": "PGY*PGYO*PGYOA",
+      "altCode": "AYVG",
+      "name": "Pilot Energy Limited"
+    },
+    {
+      "code": "IJQL",
+      "altCode": null,
+      "name": "Pinnacle Investment Management Group Limited"
+    },
+    {
+      "code": "PLAS",
+      "altCode": null,
+      "name": "Plasvacc Holdings Limited"
+    },
+    {
+      "code": "YSMG",
+      "altCode": null,
+      "name": "PlayUp Limited"
+    },
+    {
+      "code": "PAF",
+      "altCode": "EDIY",
+      "name": "PM Capital Asian Opportunities Fund Limited"
+    },
+    {
+      "code": "PGF",
+      "altCode": "HJFC",
+      "name": "PM Capital Global Opportunities Fund Limited"
+    },
+    {
+      "code": "IEYM",
+      "altCode": null,
+      "name": "PM Capital GO 2025 Limited"
+    },
+    {
+      "code": "TVLV",
+      "altCode": null,
+      "name": "Point Polaris (Australia) Pty Ltd"
+    },
+    {
+      "code": "DYIC",
+      "altCode": null,
+      "name": "Posture 360 Australia Limited"
+    },
+    {
+      "code": "KQDS",
+      "altCode": null,
+      "name": "Powertec Telecommunications Pty Ltd"
+    },
+    {
+      "code": "KJDR",
+      "altCode": null,
+      "name": "PreviousNext Pty Ltd"
+    },
+    {
+      "code": "IHQV",
+      "altCode": null,
+      "name": "Prime Media Group Limited"
+    },
+    {
+      "code": "PPG",
+      "altCode": "PPGR",
+      "name": "Pro-Pac Packaging Limited"
+    },
+    {
+      "code": "PBP",
+      "altCode": "PBPR",
+      "name": "Probiotec Limited"
+    },
+    {
+      "code": "PTG",
+      "altCode": "DMJC",
+      "name": "PropTech Group Limited"
+    },
+    {
+      "code": "UPFD",
+      "altCode": null,
+      "name": "PT Blink Limited"
+    },
+    {
+      "code": "QJQC",
+      "altCode": null,
+      "name": "PZE Limited"
+    },
+    {
+      "code": "ENQG",
+      "altCode": null,
+      "name": "QGE Holdings Pty Ltd"
+    },
+    {
+      "code": "QML",
+      "altCode": "NBKZ",
+      "name": "QMines Limited"
+    },
+    {
+      "code": "QFE",
+      "altCode": "GFWV",
+      "name": "QuickFee Limited"
+    },
+    {
+      "code": "2",
+      "altCode": "GBOL",
+      "name": "Quintessential"
+    },
+    {
+      "code": "XLZF",
+      "altCode": null,
+      "name": "QV Equities Limited"
+    },
+    {
+      "code": "LLFC",
+      "altCode": null,
+      "name": "Racing Australia Consolidated Enterprises Ltd"
+    },
+    {
+      "code": "RHC*RHCPA",
+      "altCode": "MZJP",
+      "name": "Ramsay Health Care Limited"
+    },
+    {
+      "code": "RLL",
+      "altCode": "BCZA",
+      "name": "Rapid Lithium Ltd"
+    },
+    {
+      "code": "RAWR",
+      "altCode": null,
+      "name": "Rawson Oil and Gas Limited"
+    },
+    {
+      "code": "RCL",
+      "altCode": "UBJP",
+      "name": "ReadCloud Limited"
+    },
+    {
+      "code": "RLM02*RLM03",
+      "altCode": "TREV",
+      "name": "Realm Investment House"
+    },
+    {
+      "code": "JSAL",
+      "altCode": null,
+      "name": "Red Earth Engineering Pty Ltd"
+    },
+    {
+      "code": "PPRM",
+      "altCode": null,
+      "name": "Red Hot Australia Holdco Pty Limited"
+    },
+    {
+      "code": "RDM",
+      "altCode": "RDMR",
+      "name": "Red Metal Limited"
+    },
+    {
+      "code": "ROFS",
+      "altCode": null,
+      "name": "Red X Resources Ltd"
+    },
+    {
+      "code": "XZZR",
+      "altCode": null,
+      "name": "Redhill Education Limited"
+    },
+    {
+      "code": "RG8",
+      "altCode": "ZFQK",
+      "name": "Regal Asian Investments Limited"
+    },
+    {
+      "code": "VDNO",
+      "altCode": null,
+      "name": "Regal Funds Management"
+    },
+    {
+      "code": "RPL",
+      "altCode": "NZEH",
+      "name": "Regal Partners Limited"
+    },
+    {
+      "code": "TJGF",
+      "altCode": null,
+      "name": "ReGen Factor Pty Ltd"
+    },
+    {
+      "code": "ZXWI",
+      "altCode": null,
+      "name": "Releaf Group Limited"
+    },
+    {
+      "code": "QYDC",
+      "altCode": null,
+      "name": "ReMark Solutions Asia"
+    },
+    {
+      "code": "JEEB",
+      "altCode": null,
+      "name": "Renutrients Pty Ltd"
+    },
+    {
+      "code": "RMC",
+      "altCode": "YDTX",
+      "name": "Resimac Group Limited"
+    },
+    {
+      "code": "REY",
+      "altCode": "YQRC",
+      "name": "Rey Resources Limited"
+    },
+    {
+      "code": "QISR",
+      "altCode": null,
+      "name": "RFM Almond Fund"
+    },
+    {
+      "code": "CFTI",
+      "altCode": null,
+      "name": "RFM Poultry"
+    },
+    {
+      "code": "FUGT",
+      "altCode": null,
+      "name": "Ridgelands Resources Holding Limited"
+    },
+    {
+      "code": "RIBM",
+      "altCode": null,
+      "name": "Rio Dorado Limited"
+    },
+    {
+      "code": "BCZF",
+      "altCode": null,
+      "name": "Ripeglobal Group Pty Limited"
+    },
+    {
+      "code": "XSHA",
+      "altCode": null,
+      "name": "Robert Bird Group"
+    },
+    {
+      "code": "MKJP",
+      "altCode": null,
+      "name": "ROC Funds Management Pty Limited"
+    },
+    {
+      "code": "218",
+      "altCode": "YPSH",
+      "name": "Rofina Group Limited"
+    },
+    {
+      "code": "EYQZ",
+      "altCode": null,
+      "name": "Royal Energy Pty Ltd"
+    },
+    {
+      "code": "RRHL",
+      "altCode": null,
+      "name": "Royalco Resources Limited"
+    },
+    {
+      "code": "OJZU",
+      "altCode": null,
+      "name": "RoyalNature Limited"
+    },
+    {
+      "code": "NHRU",
+      "altCode": null,
+      "name": "RS Mines Pty Limited"
+    },
+    {
+      "code": "RFF",
+      "altCode": "CAUP",
+      "name": "Rural Funds Group"
+    },
+    {
+      "code": "ADLC",
+      "altCode": null,
+      "name": "Rush Gold"
+    },
+    {
+      "code": "TBOZ",
+      "altCode": null,
+      "name": "S.E.A.S. Sapfor Forests Pty Ltd"
+    },
+    {
+      "code": "IKYO",
+      "altCode": null,
+      "name": "Sands Innovations Ltd"
+    },
+    {
+      "code": "XGSE",
+      "altCode": null,
+      "name": "Sapien Group Pty Ltd"
+    },
+    {
+      "code": "TG8",
+      "altCode": "UJHU",
+      "name": "Saramanis Ltd"
+    },
+    {
+      "code": "ZTZO",
+      "altCode": null,
+      "name": "Sativite Group Limited"
+    },
+    {
+      "code": "IHZG",
+      "altCode": null,
+      "name": "Sawce Pty Ltd"
+    },
+    {
+      "code": "WJZQ",
+      "altCode": null,
+      "name": "Sayen Global Holdings Limited"
+    },
+    {
+      "code": "BDSW",
+      "altCode": null,
+      "name": "SBS Transit Ltd"
+    },
+    {
+      "code": "JFOB",
+      "altCode": null,
+      "name": "SCA Property Group"
+    },
+    {
+      "code": "SDV",
+      "altCode": "INLR",
+      "name": "SciDev Ltd"
+    },
+    {
+      "code": "ZVAL",
+      "altCode": null,
+      "name": "Scintilla Strategic Investments Limited"
+    },
+    {
+      "code": "XNQV",
+      "altCode": null,
+      "name": "Searson Buck Group Pty Ltd"
+    },
+    {
+      "code": "BWIK",
+      "altCode": null,
+      "name": "Sembcorp Industries Ltd"
+    },
+    {
+      "code": "SE1",
+      "altCode": "CSVT",
+      "name": "Sensera Limited"
+    },
+    {
+      "code": "SRV",
+      "altCode": "SRVR",
+      "name": "Servcorp Limited"
+    },
+    {
+      "code": "VPKG",
+      "altCode": null,
+      "name": "Seven (National) Pty Ltd"
+    },
+    {
+      "code": "SWM",
+      "altCode": "SHJR",
+      "name": "Seven West Media Limited"
+    },
+    {
+      "code": "SGF",
+      "altCode": "XZIR",
+      "name": "SG Fleet Group Limited"
+    },
+    {
+      "code": "SGH*SVWPA",
+      "altCode": "EBXX",
+      "name": "SGH Limited"
+    },
+    {
+      "code": "SHA",
+      "altCode": "MMFF",
+      "name": "SHAPE Australia Corporation Limited"
+    },
+    {
+      "code": "8SQ",
+      "altCode": "HGUK",
+      "name": "ShengQuan Aged Care Service Limited"
+    },
+    {
+      "code": "PYNW",
+      "altCode": null,
+      "name": "Shield Master Fund"
+    },
+    {
+      "code": "SSL*SSLPA",
+      "altCode": "LBQP",
+      "name": "Sietel Limited"
+    },
+    {
+      "code": "SLH",
+      "altCode": "JXPY",
+      "name": "Silk Logistics Holdings Limited"
+    },
+    {
+      "code": "SMG",
+      "altCode": "VTDL",
+      "name": "Silver Metal Group Limited"
+    },
+    {
+      "code": "SIS",
+      "altCode": "PBDN",
+      "name": "Simble Solutions Limited"
+    },
+    {
+      "code": "SIO",
+      "altCode": "DYZI",
+      "name": "Simonds Group Limited"
+    },
+    {
+      "code": "TSHL",
+      "altCode": null,
+      "name": "Singapore Airlines Limited"
+    },
+    {
+      "code": "ZVKA",
+      "altCode": null,
+      "name": "Singapore Exchange Limited"
+    },
+    {
+      "code": "SINO",
+      "altCode": null,
+      "name": "Sinovus Mining Limited"
+    },
+    {
+      "code": "SIV",
+      "altCode": "SIVR",
+      "name": "SIV Capital Limited"
+    },
+    {
+      "code": "LLHX",
+      "altCode": null,
+      "name": "SIWA Group Limited"
+    },
+    {
+      "code": "WOQX",
+      "altCode": null,
+      "name": "Slater and Gordon Limited"
+    },
+    {
+      "code": "QFAV",
+      "altCode": null,
+      "name": "Snedden Hall & Gallop Lawyers"
+    },
+    {
+      "code": "SOM",
+      "altCode": "SOMN",
+      "name": "SomnoMed Limited"
+    },
+    {
+      "code": "SXX",
+      "altCode": "SCXR",
+      "name": "Southern Cross Exploration NL"
+    },
+    {
+      "code": "SPA*SPAO",
+      "altCode": "BSGS",
+      "name": "Spacetalk Ltd"
+    },
+    {
+      "code": "SKI",
+      "altCode": "NAZF",
+      "name": "Spark Infrastructure Group"
+    },
+    {
+      "code": "WMOQ",
+      "altCode": null,
+      "name": "SPC Global Ltd"
+    },
+    {
+      "code": "LVMJ",
+      "altCode": null,
+      "name": "Spitfire Corporation Limited"
+    },
+    {
+      "code": "QEFX",
+      "altCode": null,
+      "name": "Splend Group Pty Ltd"
+    },
+    {
+      "code": "FTUS",
+      "altCode": null,
+      "name": "Splitpay Group Holdings Limited"
+    },
+    {
+      "code": "SOET",
+      "altCode": null,
+      "name": "Sports & Leisure Education Group Pty Ltd"
+    },
+    {
+      "code": "UXOO",
+      "altCode": null,
+      "name": "Spot Holdings (NSW) Pty Ltd"
+    },
+    {
+      "code": "NOQR",
+      "altCode": null,
+      "name": "Spreedbox Holdings Limited"
+    },
+    {
+      "code": "SBM",
+      "altCode": "JJPW",
+      "name": "St Barbara Limited"
+    },
+    {
+      "code": "GQRX",
+      "altCode": null,
+      "name": "ST Telemedia"
+    },
+    {
+      "code": "RJVV",
+      "altCode": null,
+      "name": "Stacpoole Investments Ltd"
+    },
+    {
+      "code": "EVDT",
+      "altCode": null,
+      "name": "Statera Pty Limited"
+    },
+    {
+      "code": "GVF",
+      "altCode": "QHND",
+      "name": "Staude Capital Global Value Fund Limited"
+    },
+    {
+      "code": "SRZ",
+      "altCode": "ZWFG",
+      "name": "Stellar Resources Limited"
+    },
+    {
+      "code": "QURH",
+      "altCode": null,
+      "name": "Steppes Private Equity Partners 1 LP"
+    },
+    {
+      "code": "DBUK",
+      "altCode": null,
+      "name": "Stockwell Property Funds"
+    },
+    {
+      "code": "BGDT",
+      "altCode": null,
+      "name": "StoreHouse Group"
+    },
+    {
+      "code": "WURW",
+      "altCode": null,
+      "name": "Straits Trading Company Limited"
+    },
+    {
+      "code": "STG",
+      "altCode": "ULOW",
+      "name": "Straker Translations Limited"
+    },
+    {
+      "code": "STX",
+      "altCode": "PTEV",
+      "name": "Strike Energy Limited"
+    },
+    {
+      "code": "PTEZ",
+      "altCode": null,
+      "name": "Strike Energy Limited Takeover Register"
+    },
+    {
+      "code": "JFAR",
+      "altCode": null,
+      "name": "Succession Plus - Demo"
+    },
+    {
+      "code": "HEWI",
+      "altCode": null,
+      "name": "Sun Cable Pty Limited"
+    },
+    {
+      "code": "AVDX",
+      "altCode": null,
+      "name": "Switch TV Pty Ltd"
+    },
+    {
+      "code": "SOP",
+      "altCode": "DVFK",
+      "name": "Synertec Corporation Limited"
+    },
+    {
+      "code": "SNT",
+      "altCode": "JFPX",
+      "name": "Syntara Limited"
+    },
+    {
+      "code": "TBN",
+      "altCode": "XVEU",
+      "name": "Tamboran Resources Corporation"
+    },
+    {
+      "code": "XNWZ",
+      "altCode": null,
+      "name": "Taronga Ventures Pty Ltd"
+    },
+    {
+      "code": "TNA",
+      "altCode": "LPOH",
+      "name": "Tartana Resources Limited"
+    },
+    {
+      "code": "SMYX",
+      "altCode": null,
+      "name": "Tellus Holdings Ltd"
+    },
+    {
+      "code": "TPFL",
+      "altCode": null,
+      "name": "Teys Property Funds Ltd"
+    },
+    {
+      "code": "EGL",
+      "altCode": "ACAR",
+      "name": "The Environmental Group Limited"
+    },
+    {
+      "code": "SKIN",
+      "altCode": null,
+      "name": "The Payment App Pty Ltd"
+    },
+    {
+      "code": "VQTV",
+      "altCode": null,
+      "name": "The Whiskey Project Group Ltd"
+    },
+    {
+      "code": "TGM",
+      "altCode": "HVHC",
+      "name": "Theta Gold Mines Limited"
+    },
+    {
+      "code": "PNCA",
+      "altCode": null,
+      "name": "Think Childcare Pty Ltd"
+    },
+    {
+      "code": "1TT",
+      "altCode": "YXHG",
+      "name": "Thrive Tribe Technologies Limited"
+    },
+    {
+      "code": "HGWJ",
+      "altCode": null,
+      "name": "Tiger Tail Pty Ltd"
+    },
+    {
+      "code": "YHRN",
+      "altCode": null,
+      "name": "Tiliter Pty Ltd"
+    },
+    {
+      "code": "TML",
+      "altCode": "GJOR",
+      "name": "Timah Resources Limited"
+    },
+    {
+      "code": "ANEW",
+      "altCode": null,
+      "name": "Tipalea Funds Management Pty Ltd"
+    },
+    {
+      "code": "TSI*TSIO",
+      "altCode": "STRY",
+      "name": "Top Shelf International Holdings Ltd"
+    },
+    {
+      "code": "DUUB",
+      "altCode": null,
+      "name": "TRIBE Digital Holdings Limited"
+    },
+    {
+      "code": "TGF",
+      "altCode": "MKQH",
+      "name": "Tribeca Global Natural Resources Limited"
+    },
+    {
+      "code": "IIKC",
+      "altCode": null,
+      "name": "Trinus Impact PE Partners 1"
+    },
+    {
+      "code": "QWPT",
+      "altCode": null,
+      "name": "Trisap Group Pty Limited"
+    },
+    {
+      "code": "ZLSH",
+      "altCode": null,
+      "name": "True Infrastructure Fund"
+    },
+    {
+      "code": "KQOC",
+      "altCode": null,
+      "name": "Tubi Limited"
+    },
+    {
+      "code": "KHHU",
+      "altCode": null,
+      "name": "UIL Energy Limited"
+    },
+    {
+      "code": "SSTI",
+      "altCode": null,
+      "name": "Umwelt Australia Pty Limited"
+    },
+    {
+      "code": "REJI",
+      "altCode": null,
+      "name": "United Overseas Bank Limited"
+    },
+    {
+      "code": "UNT*UNTOA",
+      "altCode": "NMVF",
+      "name": "Unith Ltd"
+    },
+    {
+      "code": "LRYR",
+      "altCode": null,
+      "name": "Unity Mining Limited"
+    },
+    {
+      "code": "UBI*UBIO",
+      "altCode": "UBIR",
+      "name": "Universal Biosensors Inc"
+    },
+    {
+      "code": "UBN",
+      "altCode": "ODAQ",
+      "name": "Urbanise.com Limited"
+    },
+    {
+      "code": "URF",
+      "altCode": "MJRR",
+      "name": "US Masters Residential Property Group"
+    },
+    {
+      "code": "TEYR",
+      "altCode": null,
+      "name": "US Residential Ltd - in liquidation"
+    },
+    {
+      "code": "VJZY",
+      "altCode": null,
+      "name": "US Student Housing Growth & Income Fund"
+    },
+    {
+      "code": "USQ",
+      "altCode": "JKAD",
+      "name": "US Student Housing REIT"
+    },
+    {
+      "code": "UCM",
+      "altCode": "UCMR",
+      "name": "Uscom Limited"
+    },
+    {
+      "code": "TNVS",
+      "altCode": null,
+      "name": "USM Holdings Limited"
+    },
+    {
+      "code": "WBBL",
+      "altCode": null,
+      "name": "Vantage Asset Management Pty Limited"
+    },
+    {
+      "code": "IPVI",
+      "altCode": null,
+      "name": "Veloce Funds Management Ltd"
+    },
+    {
+      "code": "VKMA",
+      "altCode": null,
+      "name": "Venture Capital Opportunities Fund"
+    },
+    {
+      "code": "VJJA",
+      "altCode": null,
+      "name": "Verity Nature Pty Ltd"
+    },
+    {
+      "code": "FRDR",
+      "altCode": null,
+      "name": "Vesture Limited"
+    },
+    {
+      "code": "VG1",
+      "altCode": "CGCJ",
+      "name": "VGI Partners Global Investments Limited"
+    },
+    {
+      "code": "VIP",
+      "altCode": "MASA",
+      "name": "VIP Gloves Ltd"
+    },
+    {
+      "code": "WEES",
+      "altCode": null,
+      "name": "Vitrafy Life Sciences Limited"
+    },
+    {
+      "code": "FVPP",
+      "altCode": null,
+      "name": "Vitruvian Investments Pty Limited"
+    },
+    {
+      "code": "VHT",
+      "altCode": "CHWR",
+      "name": "Volpara Health Technologies Limited"
+    },
+    {
+      "code": "WAA",
+      "altCode": "KZEW",
+      "name": "WAM Active Limited"
+    },
+    {
+      "code": "WMA",
+      "altCode": "CDUJ",
+      "name": "WAM Alternative Assets Limited"
+    },
+    {
+      "code": "WAM",
+      "altCode": "WAMR",
+      "name": "WAM Capital Limited"
+    },
+    {
+      "code": "KQWI",
+      "altCode": null,
+      "name": "WAM Equity Fund"
+    },
+    {
+      "code": "WGB",
+      "altCode": "ZLWQ",
+      "name": "WAM Global Limited"
+    },
+    {
+      "code": "AJIS",
+      "altCode": null,
+      "name": "WAM Income Maximiser Limited"
+    },
+    {
+      "code": "WLE",
+      "altCode": "OGBO",
+      "name": "WAM Leaders Limited"
+    },
+    {
+      "code": "WMI",
+      "altCode": "DCCO",
+      "name": "WAM Microcap Limited"
+    },
+    {
+      "code": "WAX",
+      "altCode": "WIFR",
+      "name": "WAM Research Limited"
+    },
+    {
+      "code": "WAR",
+      "altCode": "ZLGY",
+      "name": "WAM Strategic Value Limited"
+    },
+    {
+      "code": "CFOX",
+      "altCode": null,
+      "name": "Watermark Absolute Return Fund"
+    },
+    {
+      "code": "QUOV",
+      "altCode": null,
+      "name": "Wedderburn Goldfields Limited"
+    },
+    {
+      "code": "HQGD",
+      "altCode": null,
+      "name": "Whisky Tasmania Limited"
+    },
+    {
+      "code": "JHXG",
+      "altCode": null,
+      "name": "Wilson Asset Management"
+    },
+    {
+      "code": "WTGX",
+      "altCode": null,
+      "name": "WINIM Funds Management Pty Ltd"
+    },
+    {
+      "code": "INRR",
+      "altCode": null,
+      "name": "Wollongong Resources Pty Ltd"
+    },
+    {
+      "code": "ROTM",
+      "altCode": null,
+      "name": "Woolley GAL 11 Pty Limited"
+    },
+    {
+      "code": "ABCY",
+      "altCode": null,
+      "name": "Work"
+    },
+    {
+      "code": "WRK",
+      "altCode": "GAYA",
+      "name": "Wrkr Ltd"
+    },
+    {
+      "code": "IBXB",
+      "altCode": null,
+      "name": "WSP Australia"
+    },
+    {
+      "code": "WTL",
+      "altCode": "PXFR",
+      "name": "WT Financial Group Limited"
+    },
+    {
+      "code": "DEQS",
+      "altCode": null,
+      "name": "Wyza Limited"
+    },
+    {
+      "code": "UZOP",
+      "altCode": null,
+      "name": "Xicato Europe Limited"
+    },
+    {
+      "code": "LRIT",
+      "altCode": null,
+      "name": "Xpansiv Limited"
+    },
+    {
+      "code": "FTZI",
+      "altCode": null,
+      "name": "Xplore Wealth"
+    },
+    {
+      "code": "XRG",
+      "altCode": "FOYT",
+      "name": "xReality Group Limited"
+    },
+    {
+      "code": "KMPQ",
+      "altCode": null,
+      "name": "Xynapse Limited"
+    },
+    {
+      "code": "LUES",
+      "altCode": null,
+      "name": "Yellowfin Pty Ltd"
+    },
+    {
+      "code": "WLSU",
+      "altCode": null,
+      "name": "Yilgarn Group Limited"
+    },
+    {
+      "code": "YFZ",
+      "altCode": "PBAK",
+      "name": "Youfoodz Holdings Limited"
+    },
+    {
+      "code": "PLIP",
+      "altCode": null,
+      "name": "Yumbah Aquaculture Limited"
+    },
+    {
+      "code": "TZNL",
+      "altCode": null,
+      "name": "Zaige Waste Management Holding Group (Aus) Ltd"
+    },
+    {
+      "code": "YDHG",
+      "altCode": null,
+      "name": "Zamira Australia Limited"
+    },
+    {
+      "code": "ZEUO",
+      "altCode": "YVVA",
+      "name": "Zeus Resources Ltd"
+    },
+    {
+      "code": "ZNO",
+      "altCode": "OUUZ",
+      "name": "Zoono Group Limited"
+    }
+  ]
+}
