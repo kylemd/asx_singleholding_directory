@@ -4,12 +4,11 @@ document.addEventListener('DOMContentLoaded', function() {
   const accessButton = document.getElementById('access-button');
   const registryInfo = document.getElementById('registry-info');
   
-  // Auto-focus the search input when the popup opens
-  searchInput.focus();
-  
   let companies = [];
   let selectedCompany = null;
   let selectedIndex = -1;
+  let currentResults = [];
+  let userInput = '';
   
   // Registry URLs
   const registryUrls = {
@@ -18,6 +17,22 @@ document.addEventListener('DOMContentLoaded', function() {
     'InvestorServe': 'https://www.investorserve.com.au/#',
     'Automic': 'https://investor.automic.com.au/#/home'
   };
+  
+  // Create a wrapper for the input to handle soft-prefill
+  const inputWrapper = document.createElement('div');
+  inputWrapper.className = 'input-wrapper';
+  searchInput.parentNode.insertBefore(inputWrapper, searchInput);
+  inputWrapper.appendChild(searchInput);
+  
+  // Create the suggestion element
+  const suggestionSpan = document.createElement('div');
+  suggestionSpan.className = 'suggestion-text';
+  inputWrapper.appendChild(suggestionSpan);
+  
+  // Auto-focus the search input when the popup opens
+  setTimeout(() => {
+    searchInput.focus();
+  }, 0);
   
   // Fetch company data from GitHub
   async function fetchCompanyData() {
@@ -122,9 +137,11 @@ document.addEventListener('DOMContentLoaded', function() {
   // Display autocomplete results
   function showAutocompleteResults(results) {
     autocompleteResults.innerHTML = '';
+    currentResults = results;
     
     if (results.length === 0) {
       autocompleteResults.style.display = 'none';
+      clearSuggestion();
       return;
     }
     
@@ -149,19 +166,71 @@ document.addEventListener('DOMContentLoaded', function() {
       item.textContent = displayText;
       
       item.addEventListener('click', function() {
-        selectCompany(company);
-        // Hide dropdown when a result is clicked
-        autocompleteResults.style.display = 'none';
+        commitSelection(company);
+        hideAutocomplete();
       });
       
       autocompleteResults.appendChild(item);
     });
     
     autocompleteResults.style.display = 'block';
+    
+    // Show suggestion for the first result
+    if (results.length > 0 && selectedIndex >= 0) {
+      showSuggestion(results[selectedIndex]);
+    } else {
+      clearSuggestion();
+    }
   }
   
-  // Select a company from the results
-  function selectCompany(company) {
+  // Show suggestion in the input field
+  function showSuggestion(company) {
+    if (!company) {
+      clearSuggestion();
+      return;
+    }
+    
+    // Format display text
+    let displayText = '';
+    if (company.code) {
+      displayText += company.code;
+      if (company.name) {
+        displayText += ' - ' + company.name;
+      }
+    } else if (company.name) {
+      displayText = company.name;
+    }
+    
+    // Only show suggestion if it starts with the user's input
+    const userInputLower = userInput.toLowerCase();
+    const displayTextLower = displayText.toLowerCase();
+    
+    if (displayTextLower.startsWith(userInputLower)) {
+      // Create a suggestion that preserves the user's input case
+      const userInputLength = userInput.length;
+      const preservedUserInput = displayText.substring(0, userInputLength);
+      const restOfSuggestion = displayText.substring(userInputLength);
+      
+      // Set the suggestion text with the user's input case preserved
+      suggestionSpan.textContent = userInput + restOfSuggestion;
+      selectedCompany = company;
+    } else {
+      clearSuggestion();
+    }
+  }
+  
+  // Clear the suggestion
+  function clearSuggestion() {
+    suggestionSpan.textContent = '';
+  }
+  
+  // Helper function to hide autocomplete dropdown
+  function hideAutocomplete() {
+    autocompleteResults.style.display = 'none';
+  }
+  
+  // Commit the selected suggestion to the input
+  function commitSelection(company) {
     selectedCompany = company;
     
     // Format display text
@@ -176,69 +245,98 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     searchInput.value = displayText;
+    userInput = displayText;
+    clearSuggestion();
     registryInfo.textContent = `Registry: ${company.registry}`;
   }
   
   // Handle input events
-  searchInput.addEventListener('input', function() {
-    const query = this.value.trim();
-    const results = filterCompanies(query);
+  searchInput.addEventListener('input', function(e) {
+    userInput = this.value.trim();
+    const results = filterCompanies(userInput);
     selectedIndex = results.length > 0 ? 0 : -1;
     showAutocompleteResults(results);
-    
-    // Auto-select first result if there's an exact match
-    if (results.length > 0) {
-      const exactMatch = results.find(company => 
-        (company.code && company.code.toLowerCase() === query.toLowerCase()) ||
-        (company.altCode && company.altCode.toLowerCase() === query.toLowerCase())
-      );
-      
-      if (exactMatch) {
-        selectCompany(exactMatch);
-      }
-    } else {
-      selectedCompany = null;
-      registryInfo.textContent = '';
-    }
   });
   
   // Handle keyboard navigation
   searchInput.addEventListener('keydown', function(e) {
-    const items = document.querySelectorAll('.autocomplete-item');
+    // Tab key - commit the suggestion
+    if (e.key === 'Tab' && suggestionSpan.textContent) {
+      e.preventDefault();
+      if (selectedCompany) {
+        commitSelection(selectedCompany);
+        hideAutocomplete();
+      }
+      return;
+    }
     
-    if (items.length === 0) return;
-    
-    // Down arrow
+    // Handle arrow keys for navigation
     if (e.key === 'ArrowDown') {
       e.preventDefault();
-      selectedIndex = (selectedIndex + 1) % items.length;
-      showAutocompleteResults(filterCompanies(searchInput.value.trim()));
-      items[selectedIndex].scrollIntoView({ block: 'nearest' });
-    }
-    
-    // Up arrow
-    else if (e.key === 'ArrowUp') {
-      e.preventDefault();
-      selectedIndex = selectedIndex <= 0 ? items.length - 1 : selectedIndex - 1;
-      showAutocompleteResults(filterCompanies(searchInput.value.trim()));
-      items[selectedIndex].scrollIntoView({ block: 'nearest' });
-    }
-    
-    // Enter key
-    else if (e.key === 'Enter') {
-      e.preventDefault();
-      if (selectedIndex >= 0 && selectedIndex < items.length) {
-        const results = filterCompanies(searchInput.value.trim());
-        selectCompany(results[selectedIndex]);
-        // Hide dropdown when a result is selected with Enter
-        autocompleteResults.style.display = 'none';
+      
+      if (currentResults.length === 0) return;
+      
+      // Update selected index
+      selectedIndex = (selectedIndex + 1) % currentResults.length;
+      
+      // Update display
+      showAutocompleteResults(currentResults);
+      
+      // Scroll to the selected item
+      const selectedItem = document.querySelector('.autocomplete-item.selected');
+      if (selectedItem) {
+        selectedItem.scrollIntoView({ block: 'nearest' });
       }
     }
-    
-    // Tab key
-    else if (e.key === 'Tab') {
-      // Hide the autocomplete results when tabbing to ensure proper focus navigation
-      autocompleteResults.style.display = 'none';
+    else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      
+      if (currentResults.length === 0) return;
+      
+      // Update selected index
+      selectedIndex = selectedIndex <= 0 ? currentResults.length - 1 : selectedIndex - 1;
+      
+      // Update display
+      showAutocompleteResults(currentResults);
+      
+      // Scroll to the selected item
+      const selectedItem = document.querySelector('.autocomplete-item.selected');
+      if (selectedItem) {
+        selectedItem.scrollIntoView({ block: 'nearest' });
+      }
+    }
+    // Handle Enter key
+    else if (e.key === 'Enter') {
+      e.preventDefault();
+      
+      if (currentResults.length > 0) {
+        // Select the highlighted result or the first one
+        const selectedResult = selectedIndex >= 0 && selectedIndex < currentResults.length 
+          ? currentResults[selectedIndex] 
+          : currentResults[0];
+        
+        // Commit the selection
+        commitSelection(selectedResult);
+        
+        // Force hide the dropdown
+        autocompleteResults.style.display = 'none';
+        
+        // Move focus to the button
+        accessButton.focus();
+      }
+    }
+    // Handle Escape key
+    else if (e.key === 'Escape') {
+      hideAutocomplete();
+      clearSuggestion();
+    }
+  });
+  
+  // Ensure proper tab navigation
+  searchInput.addEventListener('keyup', function(e) {
+    if (e.key === 'Tab') {
+      // Ensure the button gets focus after tabbing from the input
+      accessButton.focus();
     }
   });
   
@@ -248,7 +346,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Handle click outside of autocomplete
   document.addEventListener('click', function(e) {
     if (!autocompleteResults.contains(e.target) && e.target !== searchInput) {
-      autocompleteResults.style.display = 'none';
+      hideAutocomplete();
     }
   });
   
@@ -263,6 +361,14 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     } else {
       registryInfo.textContent = 'Please select a company first';
+    }
+  });
+  
+  // Also handle Enter key on the button
+  accessButton.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      this.click();
     }
   });
   
