@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Background -->
+  <circle cx="64" cy="64" r="60" fill="#0066cc" />
+  
+  <!-- Stock chart line -->
+  <polyline 
+    points="20,80 35,65 50,75 65,45 80,55 95,30 110,40" 
+    stroke="white" 
+    stroke-width="4" 
+    fill="none" 
+    stroke-linejoin="round"
+    stroke-linecap="round" />
+  
+  <!-- ASX text -->
+  <text x="64" y="100" 
+    font-family="Arial, sans-serif" 
+    font-weight="bold" 
+    font-size="24" 
+    text-anchor="middle" 
+    fill="white">ASX</text>
+</svg> 

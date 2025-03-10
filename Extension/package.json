@@ -1,0 +1,12 @@
+{
+  "name": "asx-single-holding-directory",
+  "version": "1.0.0",
+  "description": "Chrome extension to access ASX share registry portals",
+  "private": true,
+  "scripts": {
+    "generate-icons": "node generate_icons.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.6"
+  }
+}

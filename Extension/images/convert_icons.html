@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Convert SVG to PNG</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+    .icon-container {
+      display: flex;
+      gap: 20px;
+    }
+    .icon {
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>SVG to PNG Converter</h1>
+    <p>This page helps convert the SVG icon to PNG files of different sizes.</p>
+    
+    <div class="icon-container">
+      <div class="icon">
+        <h3>16x16</h3>
+        <img id="svg16" width="16" height="16" src="icon.svg" />
+        <canvas id="canvas16" width="16" height="16" style="display:none;"></canvas>
+        <div>
+          <button onclick="convertToPng(16)">Convert to PNG</button>
+          <a id="download16" download="icon16.png" href="#">Download</a>
+        </div>
+      </div>
+      
+      <div class="icon">
+        <h3>48x48</h3>
+        <img id="svg48" width="48" height="48" src="icon.svg" />
+        <canvas id="canvas48" width="48" height="48" style="display:none;"></canvas>
+        <div>
+          <button onclick="convertToPng(48)">Convert to PNG</button>
+          <a id="download48" download="icon48.png" href="#">Download</a>
+        </div>
+      </div>
+      
+      <div class="icon">
+        <h3>128x128</h3>
+        <img id="svg128" width="128" height="128" src="icon.svg" />
+        <canvas id="canvas128" width="128" height="128" style="display:none;"></canvas>
+        <div>
+          <button onclick="convertToPng(128)">Convert to PNG</button>
+          <a id="download128" download="icon128.png" href="#">Download</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script>
+    function convertToPng(size) {
+      const img = document.getElementById(`svg${size}`);
+      const canvas = document.getElementById(`canvas${size}`);
+      const ctx = canvas.getContext('2d');
+      
+      // Draw the image on the canvas
+      ctx.clearRect(0, 0, size, size);
+      ctx.drawImage(img, 0, 0, size, size);
+      
+      // Convert canvas to PNG
+      const pngUrl = canvas.toDataURL('image/png');
+      
+      // Update download link
+      const downloadLink = document.getElementById(`download${size}`);
+      downloadLink.href = pngUrl;
+      
+      // Show success message
+      alert(`${size}x${size} PNG created! Click the download link to save.`);
+    }
+  </script>
+</body>
+</html> 
