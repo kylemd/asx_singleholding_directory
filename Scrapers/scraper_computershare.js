@@ -101,8 +101,29 @@
                     const data = await response.json();
                     if (Array.isArray(data)) {
                         data.forEach(item => {
+                            // Parse the code value to extract code and altCode
+                            const rawCode = item.Value || '';
+                            let code = '';
+                            let altCode = '';
+                            
+                            // Check if the code follows the pattern with a colon
+                            if (rawCode.includes(':')) {
+                                const parts = rawCode.split(':');
+                                code = parts[0] || '';
+                                
+                                // Extract altCode - remove 'SCAU' prefix if present
+                                if (parts[1] && parts[1].startsWith('SCAU')) {
+                                    altCode = parts[1].substring(4);
+                                } else {
+                                    altCode = parts[1] || '';
+                                }
+                            } else {
+                                code = rawCode;
+                            }
+                            
                             const companyData = {
-                                code: item.Value || '',
+                                code: code,
+                                altCode: altCode || null,
                                 name: item.Text || ''
                             };
                             allCompanyNames.add(JSON.stringify(companyData));
