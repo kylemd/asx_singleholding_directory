@@ -1,0 +1,3421 @@
+{
+  "metadata": {
+    "source": "MUFG",
+    "generated_at": "2025-03-06T22:48:07.048Z",
+    "total_companies": 853
+  },
+  "companies": [
+    {
+      "code": "AAC",
+      "name": "AUSTRALIAN AGRICULTURAL COMPANY LIMITED"
+    },
+    {
+      "code": "AAD",
+      "name": "ARDENT LEISURE GROUP"
+    },
+    {
+      "code": "AAEE",
+      "name": "ALCOA CORPORATION"
+    },
+    {
+      "code": "AAIU",
+      "name": "ARCHISTAR PTY LIMITED"
+    },
+    {
+      "code": "ATCU",
+      "name": "AARDVARK TOPCO PTY LTD"
+    },
+    {
+      "code": "ABB",
+      "name": "AUSSIE BROADBAND LIMITED"
+    },
+    {
+      "code": "ABIM",
+      "name": "ALLIANCE BERNSTEIN INVESTMENT MANAGEMENT AUS LTD"
+    },
+    {
+      "code": "ABLU",
+      "name": "AUS BIO LIMITED"
+    },
+    {
+      "code": "ABY",
+      "name": "ADORE BEAUTY GROUP LIMITED"
+    },
+    {
+      "code": "X-ABN",
+      "name": "ABN AMRO AUSTRALIA HOLDINGS PTY LIMITED"
+    },
+    {
+      "code": "ACE",
+      "name": "ACUSENSUS LIMITED"
+    },
+    {
+      "code": "ACL",
+      "name": "AUSTRALIAN CLINICAL LABS LIMITED"
+    },
+    {
+      "code": "ACOU",
+      "name": "AUSTRALIAN CAREERS NETWORK LIMITED"
+    },
+    {
+      "code": "ACR",
+      "name": "ACRUX LIMITED"
+    },
+    {
+      "code": "X-ACLU",
+      "name": "ACACIA SECURITIES LIMITED"
+    },
+    {
+      "code": "X-AIMU",
+      "name": "ACCESS INNOVATION HOLDINGS PTY LTD"
+    },
+    {
+      "code": "X-MFCU",
+      "name": "ACN 087 274 824 LIMITED"
+    },
+    {
+      "code": "AD1",
+      "name": "AD1 HOLDINGS LIMITED"
+    },
+    {
+      "code": "AD8",
+      "name": "AUDINATE GROUP LIMITED"
+    },
+    {
+      "code": "ADH",
+      "name": "ADAIRS LIMITED"
+    },
+    {
+      "code": "ADLS",
+      "name": "AUCKLAND DISTRICT LAW SOCIETY INC."
+    },
+    {
+      "code": "ADO",
+      "name": "ANTEOTECH LTD"
+    },
+    {
+      "code": "AEF",
+      "name": "AUSTRALIAN ETHICAL INVESTMENT LIMITED"
+    },
+    {
+      "code": "AEHU",
+      "name": "AVEO HEALTHCARE LIMITED"
+    },
+    {
+      "code": "AELU",
+      "name": "AWARE ENVIRONMENTAL LTD"
+    },
+    {
+      "code": "AETU",
+      "name": "AET&D HOLDINGS NO. 1 LIMITED"
+    },
+    {
+      "code": "AFCA",
+      "name": "AUSTRALIAN FINANCIAL COMPLAINTS AUTHORITY LTD"
+    },
+    {
+      "code": "AFG",
+      "name": "AUSTRALIAN FINANCE GROUP LTD"
+    },
+    {
+      "code": "AFI",
+      "name": "AUSTRALIAN FOUNDATION INVESTMENT COMPANY LIMITED"
+    },
+    {
+      "code": "AFRU",
+      "name": "AFRICAN ENERGY LIMITED (NEWCO)"
+    },
+    {
+      "code": "AGN",
+      "name": "ARGENICA THERAPEUTICS LIMITED"
+    },
+    {
+      "code": "AGOU",
+      "name": "A.G. COOMBS GROUP PTY LTD"
+    },
+    {
+      "code": "AGPL",
+      "name": "AGP INVESTMENT MANAGEMENT LIMITED"
+    },
+    {
+      "code": "AGR",
+      "name": "AGUIA RESOURCES LIMITED"
+    },
+    {
+      "code": "X-AQFU",
+      "name": "AGFORCE QUEENSLAND FARMERS LIMITED"
+    },
+    {
+      "code": "AHCU",
+      "name": "AHC LIMITED"
+    },
+    {
+      "code": "AHF",
+      "name": "AUSTRALIAN DAIRY NUTRITIONALS LIMITED"
+    },
+    {
+      "code": "AHG",
+      "name": "AUTOMOTIVE HOLDINGS GROUP LIMITED"
+    },
+    {
+      "code": "AHY",
+      "name": "ASALEO CARE LIMITED"
+    },
+    {
+      "code": "X-AHMU",
+      "name": "AHM"
+    },
+    {
+      "code": "AIA",
+      "name": "AUCKLAND INTERNATIONAL AIRPORT LIMITED"
+    },
+    {
+      "code": "AIAU",
+      "name": "AMNESTY INTERNATIONAL AUSTRALIA"
+    },
+    {
+      "code": "AICD",
+      "name": "AUSTRALIAN INSTITUTE OF COMPANY DIRECTORS"
+    },
+    {
+      "code": "AID",
+      "name": "AUSTRALIA & INTERNATIONAL HOLDINGS LIMITED"
+    },
+    {
+      "code": "AIN",
+      "name": "AUTO INNOVATIONS GROUP LIMITED"
+    },
+    {
+      "code": "AIQ",
+      "name": "ALTERNATIVE INVESTMENT TRUST"
+    },
+    {
+      "code": "AIST",
+      "name": "AUSTRALIAN INSTITUTE OF SUPERANNUATION TRUSTEES"
+    },
+    {
+      "code": "AIZ",
+      "name": "AIR NEW ZEALAND LIMITED"
+    },
+    {
+      "code": "AJA",
+      "name": "ASTRO JAPAN PROPERTY GROUP"
+    },
+    {
+      "code": "AKEE",
+      "name": "ALLKEM LIMITED"
+    },
+    {
+      "code": "AKFU",
+      "name": "ASK FUNDING LIMITED"
+    },
+    {
+      "code": "AKL",
+      "name": "QUATTRO PLUS REAL ESTATE"
+    },
+    {
+      "code": "AKN",
+      "name": "AUKING MINING LIMITED"
+    },
+    {
+      "code": "AKO",
+      "name": "AKORA RESOURCES LIMITED"
+    },
+    {
+      "code": "ALD",
+      "name": "Ampol Limited"
+    },
+    {
+      "code": "ALM",
+      "name": "ALMA METALS LIMITED"
+    },
+    {
+      "code": "AQZ",
+      "name": "ALLIANCE AVIATION SERVICES LIMITED"
+    },
+    {
+      "code": "AZZE",
+      "name": "ALLIANZ AUSTRALIA LIMITED"
+    },
+    {
+      "code": "LEP",
+      "name": "ALE PROPERTY GROUP"
+    },
+    {
+      "code": "X-AFP",
+      "name": "ALPHA FINANCIAL PRODUCTS LIMITED"
+    },
+    {
+      "code": "AMB",
+      "name": "AUSTRALIAN MILITARY BANK"
+    },
+    {
+      "code": "AMH",
+      "name": "AMCIL LIMITED"
+    },
+    {
+      "code": "AMPC",
+      "name": "AMP CAPITAL"
+    },
+    {
+      "code": "APLU",
+      "name": "ANCORA TOPCO LIMITED"
+    },
+    {
+      "code": "APA",
+      "name": "APA GROUP"
+    },
+    {
+      "code": "APD",
+      "name": "APN PROPERTY GROUP"
+    },
+    {
+      "code": "APG",
+      "name": "AUSTPAC RESOURCES NL"
+    },
+    {
+      "code": "APL",
+      "name": "ASSOCIATE GLOBAL PARTNERS LIMITED"
+    },
+    {
+      "code": "APO",
+      "name": "APN OUTDOOR GROUP LIMITED"
+    },
+    {
+      "code": "APOG",
+      "name": "APOG TOPCO PTY LTD"
+    },
+    {
+      "code": "APX",
+      "name": "APPEN LIMITED"
+    },
+    {
+      "code": "AQH",
+      "name": "APT PIPELINES LIMITED"
+    },
+    {
+      "code": "AQC",
+      "name": "AUSTRALIAN PACIFIC COAL LIMITED"
+    },
+    {
+      "code": "A1N",
+      "name": "ARN MEDIA LIMITED"
+    },
+    {
+      "code": "AR9E",
+      "name": "ARCHTIS LIMITED"
+    },
+    {
+      "code": "ARI",
+      "name": "ARIKA RESOURCES LIMITED"
+    },
+    {
+      "code": "ARNC",
+      "name": "ARCONIC CORPORATION"
+    },
+    {
+      "code": "ARU",
+      "name": "ARAFURA RARE EARTHS LIMITED"
+    },
+    {
+      "code": "ARWU",
+      "name": "ARROW RESOURCES LTD"
+    },
+    {
+      "code": "ATG",
+      "name": "ARTICORE GROUP LIMITED"
+    },
+    {
+      "code": "AS1",
+      "name": "ASARA RESOURCES LIMITED"
+    },
+    {
+      "code": "ASB",
+      "name": "AUSTAL LIMITED"
+    },
+    {
+      "code": "ASE",
+      "name": "ASTUTE METALS NL"
+    },
+    {
+      "code": "ASFA",
+      "name": "THE ASSOCIATION OF SUPERANNUATION FUNDS OF AUSTRALIA LIMITED"
+    },
+    {
+      "code": "ASG",
+      "name": "AUTOSPORTS GROUP LIMITED"
+    },
+    {
+      "code": "ASH",
+      "name": "ASHLEY SERVICES GROUP LIMITED"
+    },
+    {
+      "code": "KASU",
+      "name": "Atlantic Tin Ltd"
+    },
+    {
+      "code": "1AE",
+      "name": "AURORA ENERGY METALS LIMITED"
+    },
+    {
+      "code": "AVCU",
+      "name": "AUSTRALIAN VENUE CO. HOLDINGS LIMITED"
+    },
+    {
+      "code": "AVD",
+      "name": "AVADA GROUP LIMITED"
+    },
+    {
+      "code": "AVEU",
+      "name": "TAP OIL PTY LTD"
+    },
+    {
+      "code": "AVJ",
+      "name": "AVJENNINGS LIMITED"
+    },
+    {
+      "code": "AVN",
+      "name": "AVENTUS GROUP"
+    },
+    {
+      "code": "AVT",
+      "name": "AVANT MUTUAL"
+    },
+    {
+      "code": "AWAU",
+      "name": "AWA MUTUAL LIMITED"
+    },
+    {
+      "code": "AWIU",
+      "name": "AUSTRALIAN WOOL INNOVATION LIMITED"
+    },
+    {
+      "code": "AXG",
+      "name": "AXON GRAPHITE LTD"
+    },
+    {
+      "code": "AYU",
+      "name": "AUSTRALIAN UNITY LIMITED"
+    },
+    {
+      "code": "A2BU",
+      "name": "A2B Australia Limited"
+    },
+    {
+      "code": "A2M",
+      "name": "THE A2 MILK COMPANY LIMITED"
+    },
+    {
+      "code": "BALU",
+      "name": "BELLAMY'S AUSTRALIA LIMITED"
+    },
+    {
+      "code": "BAMU",
+      "name": "BELL ASSET MANAGEMENT LIMITED"
+    },
+    {
+      "code": "BAS",
+      "name": "BASS OIL LIMITED"
+    },
+    {
+      "code": "BKAU",
+      "name": "BANK AUSTRALIA LIMITED"
+    },
+    {
+      "code": "BKFU",
+      "name": "BANK FIRST"
+    },
+    {
+      "code": "BMR",
+      "name": "BALLYMORE RESOURCES LIMITED"
+    },
+    {
+      "code": "BOQ",
+      "name": "BANK OF QUEENSLAND LIMITED"
+    },
+    {
+      "code": "BSR",
+      "name": "BASSARI RESOURCES LIMITED"
+    },
+    {
+      "code": "BTI",
+      "name": "BAILADOR TECHNOLOGY INVESTMENTS LIMITED"
+    },
+    {
+      "code": "BVIC",
+      "name": "BankVic"
+    },
+    {
+      "code": "BBA",
+      "name": "BEYOND BANK AUSTRALIA LIMITED"
+    },
+    {
+      "code": "BEP",
+      "name": "BBI EPS LIMITED"
+    },
+    {
+      "code": "BCB",
+      "name": "BOWEN COKING COAL LIMITED"
+    },
+    {
+      "code": "BCC",
+      "name": "BEAM COMMUNICATIONS HOLDINGS LIMITED"
+    },
+    {
+      "code": "BEN",
+      "name": "BENDIGO AND ADELAIDE BANK LIMITED"
+    },
+    {
+      "code": "BETA",
+      "name": "BETASHARES EXCHANGE TRADED FUNDS"
+    },
+    {
+      "code": "BGA",
+      "name": "BEGA CHEESE LIMITED"
+    },
+    {
+      "code": "BHD",
+      "name": "BENJAMIN HORNIGOLD LTD"
+    },
+    {
+      "code": "BST",
+      "name": "BEST&LESS GROUP HOLDINGS LTD"
+    },
+    {
+      "code": "BFL",
+      "name": "BSP FINANCIAL GROUP"
+    },
+    {
+      "code": "BGP",
+      "name": "BRISCOE GROUP AUSTRALASIA LIMITED"
+    },
+    {
+      "code": "BGPU",
+      "name": "BGP HOLDINGS PLC"
+    },
+    {
+      "code": "BWN",
+      "name": "BHAGWAN MARINE LIMITED"
+    },
+    {
+      "code": "BIHL",
+      "name": "BIS INDUSTRIES HOLDINGS LIMITED"
+    },
+    {
+      "code": "BIN",
+      "name": "BINGO INDUSTRIES LIMITED"
+    },
+    {
+      "code": "BRI",
+      "name": "BIG RIVER INDUSTRIES LIMITED"
+    },
+    {
+      "code": "OPAE",
+      "name": "BILL IDENTITY LIMITED"
+    },
+    {
+      "code": "X-BNC",
+      "name": "BIONICHE LIFE SCIENCES INC"
+    },
+    {
+      "code": "BKI",
+      "name": "BKI INVESTMENT COMPANY LIMITED"
+    },
+    {
+      "code": "BKN",
+      "name": "BRADKEN LIMITED"
+    },
+    {
+      "code": "BLD",
+      "name": "BORAL LIMITED"
+    },
+    {
+      "code": "BLM",
+      "name": "BLOOMS THE CHEMIST MANAGEMENT SERVICES LTD"
+    },
+    {
+      "code": "BLYU",
+      "name": "BOART LONGYEAR GROUP LTD"
+    },
+    {
+      "code": "BSL",
+      "name": "BLUESCOPE STEEL LIMITED"
+    },
+    {
+      "code": "BTLU",
+      "name": "BLACK TREE PTY LTD"
+    },
+    {
+      "code": "BPA",
+      "name": "BROOKFIELD PRIME PROPERTY FUND"
+    },
+    {
+      "code": "BPAU",
+      "name": "BRITISH PETROLEUM LIMITED AUSTRALIA"
+    },
+    {
+      "code": "BPF",
+      "name": "BULLETPROOF GROUP LIMITED"
+    },
+    {
+      "code": "BRU",
+      "name": "BURU ENERGY LIMITED"
+    },
+    {
+      "code": "BVS",
+      "name": "BRAVURA SOLUTIONS LIMITED"
+    },
+    {
+      "code": "BSP",
+      "name": "BSP FINANCIAL GROUP LIMITED"
+    },
+    {
+      "code": "BTC",
+      "name": "BTC health Limited"
+    },
+    {
+      "code": "BTN",
+      "name": "BUTN LIMITED"
+    },
+    {
+      "code": "X-BTM",
+      "name": "BT RESOURCES MANAGEMENT LIMITED"
+    },
+    {
+      "code": "X-BUPA",
+      "name": "BUPA DENTAL CORPORATION LIMITED"
+    },
+    {
+      "code": "CAN",
+      "name": "CANN GROUP LIMITED"
+    },
+    {
+      "code": "CANZ",
+      "name": "CHARTERED ACCOUNTANTS AUSTRALIA AND NEW ZEALAND"
+    },
+    {
+      "code": "CAT",
+      "name": "CATAPULT GROUP INTERNATIONAL LTD"
+    },
+    {
+      "code": "CBR",
+      "name": "CARBON REVOLUTION LIMITED"
+    },
+    {
+      "code": "CCIU",
+      "name": "CARBON CONSCIOUS INVESTMENTS LTD"
+    },
+    {
+      "code": "CGHU",
+      "name": "CALIBRE GROUP LIMITED"
+    },
+    {
+      "code": "CMB",
+      "name": "Cambium Bio Limited"
+    },
+    {
+      "code": "CPEU",
+      "name": "CANNAPONICS LIMITED"
+    },
+    {
+      "code": "CPN",
+      "name": "CARPATHIAN RESOURCES LIMITED"
+    },
+    {
+      "code": "CRW",
+      "name": "CASHREWARDS LIMITED"
+    },
+    {
+      "code": "CBA",
+      "name": "COMMONWEALTH BANK OF AUSTRALIA"
+    },
+    {
+      "code": "CBAW",
+      "name": "COMMONWEALTH BANK OF AUSTRALIA WARRANTS"
+    },
+    {
+      "code": "CBH",
+      "name": "CO-OPERATIVE BULK HANDLING LIMITED"
+    },
+    {
+      "code": "CBO",
+      "name": "COBRAM ESTATE OLIVES LIMITED"
+    },
+    {
+      "code": "CCA",
+      "name": "CHANGE FINANCIAL LIMITED"
+    },
+    {
+      "code": "CCL",
+      "name": "CUSCAL LIMITED"
+    },
+    {
+      "code": "CCLU",
+      "name": "COCA-COLA AMATIL LIMITED"
+    },
+    {
+      "code": "CCP",
+      "name": "CREDIT CORPORATION (PNG) LTD"
+    },
+    {
+      "code": "CCX",
+      "name": "CITY CHIC COLLECTIVE LIMITED"
+    },
+    {
+      "code": "CDAU",
+      "name": "CDA HEALTH PTY LTD"
+    },
+    {
+      "code": "CEH",
+      "name": "COAST ENTERTAINMENT HOLDINGS LIMITED"
+    },
+    {
+      "code": "CEN",
+      "name": "CONTACT ENERGY LIMITED"
+    },
+    {
+      "code": "CLT",
+      "name": "CELLNET GROUP LIMITED"
+    },
+    {
+      "code": "CTTE",
+      "name": "CETTIRE LIMITED"
+    },
+    {
+      "code": "X-CNGX",
+      "name": "CENTRAL NORSEMAN GOLD CORPORATION"
+    },
+    {
+      "code": "CFCU",
+      "name": "NORTHERN CO-OPERATIVE MEAT COMPANY LIMITED"
+    },
+    {
+      "code": "CGCU",
+      "name": "COSTA GROUP HOLDINGS LIMITED"
+    },
+    {
+      "code": "CGLU",
+      "name": "THE CITADEL GROUP LIMITED"
+    },
+    {
+      "code": "CGNU",
+      "name": "CRATER GOLD MINING LIMITED"
+    },
+    {
+      "code": "C79",
+      "name": "CHRYSOS CORPORATION LIMITED"
+    },
+    {
+      "code": "CHC",
+      "name": "CHARTER HALL GROUP"
+    },
+    {
+      "code": "CHFU",
+      "name": "CHARTER PACIFIC CORPORATION LTD"
+    },
+    {
+      "code": "CLW",
+      "name": "CHARTER HALL LONG WALE REIT"
+    },
+    {
+      "code": "CQE",
+      "name": "CHARTER HALL SOCIAL INFRASTRUCTURE REIT"
+    },
+    {
+      "code": "CQR",
+      "name": "CHARTER HALL RETAIL REIT"
+    },
+    {
+      "code": "X-CGF",
+      "name": "CHALLENGER MANAGED INVESTMENTS LIMITED"
+    },
+    {
+      "code": "X-CIF",
+      "name": "CHALLENGER INFRASTRUCTURE FUND"
+    },
+    {
+      "code": "CPL",
+      "name": "CITY PHARMACY LIMITED"
+    },
+    {
+      "code": "CTO",
+      "name": "CITIGOLD CORPORATION LIMITED"
+    },
+    {
+      "code": "X-CADU",
+      "name": "CITIGROUP"
+    },
+    {
+      "code": "X-CGMU",
+      "name": "CITIGROUP GLOBAL MKTS AUST P/L"
+    },
+    {
+      "code": "X-CSX",
+      "name": "CITADEL SECURIX LIMITED"
+    },
+    {
+      "code": "C7A",
+      "name": "CLARA RESOURCES AUSTRALIA LIMITED"
+    },
+    {
+      "code": "CL1",
+      "name": "CLASS LIMITED"
+    },
+    {
+      "code": "CLOU",
+      "name": "CLOUGH LIMITED"
+    },
+    {
+      "code": "CLSU",
+      "name": "CLOUDSCENE PTY LIMITED"
+    },
+    {
+      "code": "CSPU",
+      "name": "CLEARSPEND LIMITED"
+    },
+    {
+      "code": "CU6",
+      "name": "CLARITY PHARMACEUTICALS LIMITED"
+    },
+    {
+      "code": "CMW",
+      "name": "CROMWELL PROPERTY GROUP"
+    },
+    {
+      "code": "CNP",
+      "name": "CNPR GROUP"
+    },
+    {
+      "code": "COMR",
+      "name": "COMMERCIAL REAL ESTATE MEDIA PTY LIMITED"
+    },
+    {
+      "code": "COS",
+      "name": "COSOL LIMITED"
+    },
+    {
+      "code": "CPAU",
+      "name": "CPA AUSTRALIA LTD"
+    },
+    {
+      "code": "X-CPHU",
+      "name": "CPHF INVESTMENT FUND NO.2"
+    },
+    {
+      "code": "CTE",
+      "name": "CRYOSITE LIMITED"
+    },
+    {
+      "code": "CUSA",
+      "name": "CREDIT UNION SA LTD"
+    },
+    {
+      "code": "CSVE",
+      "name": "CSG LIMITED"
+    },
+    {
+      "code": "CTR",
+      "name": "CONTROLLED THERMAL RESOURCES LIMITED"
+    },
+    {
+      "code": "CUF",
+      "name": "CUFE LIMITED"
+    },
+    {
+      "code": "CUPE",
+      "name": "COUNTPLUS LIMITED"
+    },
+    {
+      "code": "CUSU",
+      "name": "CUSCAL LIMITED"
+    },
+    {
+      "code": "X-CMK",
+      "name": "CUMNOCK COAL LIMITED"
+    },
+    {
+      "code": "CVN",
+      "name": "CARNARVON ENERGY LIMITED"
+    },
+    {
+      "code": "CWX",
+      "name": "CARAWINE RESOURCES LIMITED"
+    },
+    {
+      "code": "CYB",
+      "name": "AUCYBER LIMITED"
+    },
+    {
+      "code": "X-CYT",
+      "name": "CYTOPIA LIMITED"
+    },
+    {
+      "code": "DAUU",
+      "name": "Dairy Australia Limited"
+    },
+    {
+      "code": "DBI",
+      "name": "DALRYMPLE BAY INFRASTRUCTURE LIMITED"
+    },
+    {
+      "code": "DMG",
+      "name": "DATAMESH GROUP PTY LTD"
+    },
+    {
+      "code": "DTL",
+      "name": "DATA3 LIMITED"
+    },
+    {
+      "code": "X-DAE",
+      "name": "DAEMON CONSULTING GROUP PTY LIMITED"
+    },
+    {
+      "code": "DCMU",
+      "name": "DOVER CASTLE METALS LTD"
+    },
+    {
+      "code": "DDR",
+      "name": "DICKER DATA LIMITED"
+    },
+    {
+      "code": "DEM",
+      "name": "DE.MEM LIMITED"
+    },
+    {
+      "code": "DXC",
+      "name": "DEXUS CONVENIENCE RETAIL REIT"
+    },
+    {
+      "code": "DXI",
+      "name": "DEXUS INDUSTRIA REIT"
+    },
+    {
+      "code": "DXS",
+      "name": "DEXUS"
+    },
+    {
+      "code": "X-DXR",
+      "name": "DEXUS RENTS TRUST"
+    },
+    {
+      "code": "DGL",
+      "name": "DGL GROUP LIMITED"
+    },
+    {
+      "code": "DGR",
+      "name": "DGR GLOBAL LIMITED"
+    },
+    {
+      "code": "DGT",
+      "name": "DIGICO INFRASTRUCTURE REIT"
+    },
+    {
+      "code": "DHG",
+      "name": "DOMAIN HOLDINGS AUSTRALIA LIMITED"
+    },
+    {
+      "code": "DISU",
+      "name": "DISRUPT RADIO PTY LTD"
+    },
+    {
+      "code": "DUI",
+      "name": "DIVERSIFIED UNITED INVESTMENT LIMITED"
+    },
+    {
+      "code": "DVR",
+      "name": "DIVERGER LIMITED"
+    },
+    {
+      "code": "DJW",
+      "name": "DJERRIWARRH INVESTMENTS LIMITED"
+    },
+    {
+      "code": "DMP",
+      "name": "DOMINO'S PIZZA ENTERPRISES LIMITED"
+    },
+    {
+      "code": "X-DCSU",
+      "name": "DOMAINE CREEK ST FUND"
+    },
+    {
+      "code": "X-DSKU",
+      "name": "DOMAINE ST KILDA FUND"
+    },
+    {
+      "code": "X-DLXE",
+      "name": "DULUXGROUP LIMITED-ORICA LTEIP"
+    },
+    {
+      "code": "E33",
+      "name": "EAST 33 LIMITED"
+    },
+    {
+      "code": "EARU",
+      "name": "ECHO RESOURCES LIMITED (DEAD REGISTER)"
+    },
+    {
+      "code": "EAT",
+      "name": "ENTERTAINMENT REWARDS LTD"
+    },
+    {
+      "code": "EAX",
+      "name": "ENERGY ACTION LIMITED"
+    },
+    {
+      "code": "ECAW",
+      "name": "ELECTRICAL & COMMUNICATIONS ASSOCIATION WA"
+    },
+    {
+      "code": "ECL",
+      "name": "Excelsior Capital Limited"
+    },
+    {
+      "code": "EGR",
+      "name": "ECOGRAF LIMITED"
+    },
+    {
+      "code": "EOF",
+      "name": "ECOFIBRE LIMITED"
+    },
+    {
+      "code": "X-ECV",
+      "name": "ECOSAVE HOLDINGS LIMITED"
+    },
+    {
+      "code": "EDV",
+      "name": "ENDEAVOUR GROUP LIMITED"
+    },
+    {
+      "code": "X-EDTU",
+      "name": "EDT RETAIL TRUST"
+    },
+    {
+      "code": "EGFU",
+      "name": "ELLERSTON CAPITAL"
+    },
+    {
+      "code": "EGH",
+      "name": "EUREKA GROUP HOLDINGS LIMITED"
+    },
+    {
+      "code": "EGI",
+      "name": "ELLERSTON GLOBAL INVESTMENTS LIMITED"
+    },
+    {
+      "code": "EHE",
+      "name": "ESTIA HEALTH LIMITED"
+    },
+    {
+      "code": "EHL",
+      "name": "EMECO HOLDINGS LIMITED"
+    },
+    {
+      "code": "ELO",
+      "name": "ELMO SOFTWARE LIMITED"
+    },
+    {
+      "code": "EOS",
+      "name": "ELECTRO OPTIC SYSTEMS HOLDINGS LIMITED"
+    },
+    {
+      "code": "X-EAU",
+      "name": "ELDORADO GOLD CORPORATION"
+    },
+    {
+      "code": "EML",
+      "name": "EML Payments Limited"
+    },
+    {
+      "code": "EMV",
+      "name": "EMVISION MEDICAL DEVICES LIMITED"
+    },
+    {
+      "code": "EVO",
+      "name": "EMBARK EARLY EDUCATION LIMITED"
+    },
+    {
+      "code": "X-EMC",
+      "name": "EMECO LIMITED"
+    },
+    {
+      "code": "ENC",
+      "name": "ENICE HOLDING COMPANY LIMITED"
+    },
+    {
+      "code": "ENL",
+      "name": "ENLITIC, INC."
+    },
+    {
+      "code": "ENVU",
+      "name": "ENVESTRA LIMITED"
+    },
+    {
+      "code": "EOL",
+      "name": "ENERGY ONE LIMITED"
+    },
+    {
+      "code": "EQT",
+      "name": "EQT HOLDINGS LIMITED"
+    },
+    {
+      "code": "ETIU",
+      "name": "ETHANOL TECHNOLOGIES INVESTMENTS LIMITED"
+    },
+    {
+      "code": "X-EPX",
+      "name": "ETHANE PIPELINE INCOME FUND"
+    },
+    {
+      "code": "X-ETFS",
+      "name": "ETFS COMMODITY SECURITIES AUSTRALIA LIMITED"
+    },
+    {
+      "code": "EWAU",
+      "name": "EUREKA VILLAGES WA FUND"
+    },
+    {
+      "code": "EVN",
+      "name": "EVOLUTION MINING LIMITED"
+    },
+    {
+      "code": "XOME",
+      "name": "EXXONMOBIL AUSTRALIA"
+    },
+    {
+      "code": "FPP",
+      "name": "FAT PROPHETS GLOBAL PROPERTY FUND"
+    },
+    {
+      "code": "FXJ",
+      "name": "FAIRFAX MEDIA LIMITED"
+    },
+    {
+      "code": "X-FACE",
+      "name": "FACILITATE DIGITAL HOLDINGS LTD"
+    },
+    {
+      "code": "X-FPTU",
+      "name": "FAL PROPERTY TRUST"
+    },
+    {
+      "code": "FCCU",
+      "name": "FIRST CHOICE CREDIT UNION"
+    },
+    {
+      "code": "FDV",
+      "name": "FRONTIER DIGITAL VENTURES LIMITED"
+    },
+    {
+      "code": "FEI",
+      "name": "FE Investments Group Limited"
+    },
+    {
+      "code": "FGH",
+      "name": "FORESTA GROUP HOLDINGS LIMITED"
+    },
+    {
+      "code": "FIL",
+      "name": "FIDELITY"
+    },
+    {
+      "code": "FINU",
+      "name": "FINDEX GROUP LIMITED"
+    },
+    {
+      "code": "FPH",
+      "name": "FISHER & PAYKEL HEALTHCARE CORPORATION LIMITED"
+    },
+    {
+      "code": "FPL",
+      "name": "FIDANTE PARTNERS LIMITED"
+    },
+    {
+      "code": "FSIU",
+      "name": "FIRST SENTIER GEARED AUSTRALIAN SHARE FUND"
+    },
+    {
+      "code": "FLG",
+      "name": "FLAGSHIP MINERALS LIMITED"
+    },
+    {
+      "code": "FMI",
+      "name": "FLORIN MINING INVESTMENT COMPANY LIMITED"
+    },
+    {
+      "code": "FPR",
+      "name": "FLEETPARTNERS GROUP LIMITED"
+    },
+    {
+      "code": "FMG",
+      "name": "FORTESCUE LTD"
+    },
+    {
+      "code": "FMIU",
+      "name": "FMI HOLDINGS PTY LTD"
+    },
+    {
+      "code": "FORT",
+      "name": "FORTLAKE ASSET MANAGEMENT PTY LIMITED"
+    },
+    {
+      "code": "FRNK",
+      "name": "BETASHARES FRANKLIN TEMPLETON AUSTRALIA  LIMITED"
+    },
+    {
+      "code": "FTIA",
+      "name": "FRANKLIN TEMPLETON AUS LIMITED"
+    },
+    {
+      "code": "FTIG",
+      "name": "FUTURITY INVESTMENT GROUP LIMITED"
+    },
+    {
+      "code": "GAS",
+      "name": "STATE GAS LIMITED"
+    },
+    {
+      "code": "GDF",
+      "name": "GARDA PROPERTY GROUP"
+    },
+    {
+      "code": "GJT",
+      "name": "GALILEO JAPAN TRUST"
+    },
+    {
+      "code": "GTY",
+      "name": "GATEWAY LIFESTYLE GROUP"
+    },
+    {
+      "code": "GXYE",
+      "name": "GALAXY RESOURCES LIMITED"
+    },
+    {
+      "code": "X-GCM",
+      "name": "GARDA CAPITAL GROUP"
+    },
+    {
+      "code": "GBG",
+      "name": "GINDALBIE METALS LTD"
+    },
+    {
+      "code": "GBT",
+      "name": "GBST HOLDINGS LIMITED"
+    },
+    {
+      "code": "GDI",
+      "name": "GDI PROPERTY GROUP"
+    },
+    {
+      "code": "GELU",
+      "name": "GULF ENERGY LIMITED"
+    },
+    {
+      "code": "GEM",
+      "name": "G8 EDUCATION LIMITED"
+    },
+    {
+      "code": "GHC",
+      "name": "GENERATION HEALTHCARE REIT"
+    },
+    {
+      "code": "GNP",
+      "name": "GENUSPLUS GROUP LTD"
+    },
+    {
+      "code": "GTK",
+      "name": "GENTRACK GROUP LIMITED"
+    },
+    {
+      "code": "X-GCA",
+      "name": "GEC ASIAN VALUE FUND"
+    },
+    {
+      "code": "X-GCE",
+      "name": "GEC EUROGROWTH FUND"
+    },
+    {
+      "code": "X-GCH",
+      "name": "GEC AUSTRALIAN HEALTHCARE FUND"
+    },
+    {
+      "code": "GF2A",
+      "name": "MACQUARIE GLOBAL INFRASTRUCTURE FUND II(A)"
+    },
+    {
+      "code": "GF2B",
+      "name": "MACQUARIE GLOBAL INFRASTRUCTURE FUND II(B)"
+    },
+    {
+      "code": "GF3A",
+      "name": "MACQUARIE GLOBAL INFRASTRUCTURE FUND IIIA"
+    },
+    {
+      "code": "GF3B",
+      "name": "MACQUARIE GLOBAL INFRASTRUCTURE FUND IIIB"
+    },
+    {
+      "code": "GFFU",
+      "name": "GOODMAN FIELDER LIMITED"
+    },
+    {
+      "code": "GFY",
+      "name": "GODFREYS GROUP LIMITED"
+    },
+    {
+      "code": "GGR",
+      "name": "GRAIN GROWERS LIMITED"
+    },
+    {
+      "code": "GGUE",
+      "name": "GUILD GROUP HOLDINGS"
+    },
+    {
+      "code": "GHY",
+      "name": "GOLD HYDROGEN LIMITED"
+    },
+    {
+      "code": "GIB",
+      "name": "GIBB RIVER DIAMONDS LIMITED"
+    },
+    {
+      "code": "GICU",
+      "name": "GRAZIERS INVESTMENT COMPANY LIMITED"
+    },
+    {
+      "code": "GID",
+      "name": "GI DYNAMICS INC"
+    },
+    {
+      "code": "GLB",
+      "name": "GLOBE INTERNATIONAL LIMITED"
+    },
+    {
+      "code": "GSKE",
+      "name": "GLAXOSMITHKLINE AUSTRALIA PTY LTD"
+    },
+    {
+      "code": "GNBU",
+      "name": "MATTER TECHNOLOGY LIMITED"
+    },
+    {
+      "code": "GNC",
+      "name": "GRAINCORP LIMITED"
+    },
+    {
+      "code": "GVT",
+      "name": "GO VITA GROUP LIMITED"
+    },
+    {
+      "code": "X-GOTU",
+      "name": "GORDON PROPERTY TRUST"
+    },
+    {
+      "code": "GPNU",
+      "name": "GPN VACCINES LTD"
+    },
+    {
+      "code": "GPT",
+      "name": "GPT GROUP"
+    },
+    {
+      "code": "GQG",
+      "name": "GQG PARTNERS INC"
+    },
+    {
+      "code": "GRV",
+      "name": "GREENVALE ENERGY LIMITED"
+    },
+    {
+      "code": "GXL",
+      "name": "GREENCROSS LIMITED"
+    },
+    {
+      "code": "H2G",
+      "name": "GreenHy2 Limited"
+    },
+    {
+      "code": "X-GFD",
+      "name": "GREEN'S FOODS LIMITED"
+    },
+    {
+      "code": "X-GSBU",
+      "name": "GREAT SOUTHERN BANK"
+    },
+    {
+      "code": "X-GTPE",
+      "name": "GREAT SOUTHERN LIMITED"
+    },
+    {
+      "code": "X-GTSU",
+      "name": "GRAPHENE TECHNOLOGY SOLUTIONS PTY LTD"
+    },
+    {
+      "code": "GTN",
+      "name": "GTN LIMITED"
+    },
+    {
+      "code": "GUDE",
+      "name": "GUD Holdings Limited"
+    },
+    {
+      "code": "GUVU",
+      "name": "GUVERA LIMITED"
+    },
+    {
+      "code": "QRX",
+      "name": "Guardian Medical Solutions Limited"
+    },
+    {
+      "code": "HAML",
+      "name": "HEATHLEY ASSET MANAGEMENT LIMITED"
+    },
+    {
+      "code": "HAW",
+      "name": "HAWTHORN RESOURCES LIMITED"
+    },
+    {
+      "code": "HIO",
+      "name": "HAWSONS IRON LIMITED"
+    },
+    {
+      "code": "HISI",
+      "name": "HALIFAX INVESTMENT SERVICES P/L (ADMINISTRATORS APPOINTED)"
+    },
+    {
+      "code": "HLNE",
+      "name": "HALEON PLC"
+    },
+    {
+      "code": "HLXU",
+      "name": "HAEMALOGIX LTD"
+    },
+    {
+      "code": "HMUE",
+      "name": "HASTINGS MANAGEMENT PTY LIMITED."
+    },
+    {
+      "code": "HSN",
+      "name": "HANSEN TECHNOLOGIES LIMITED"
+    },
+    {
+      "code": "X-HAN",
+      "name": "HANSON PLC"
+    },
+    {
+      "code": "HCL",
+      "name": "HEALTHCARE LOGIC GLOBAL LIMITED"
+    },
+    {
+      "code": "HCW",
+      "name": "HEALTHCO HEALTHCARE AND WELLNESS REIT"
+    },
+    {
+      "code": "HDN",
+      "name": "HOME CO DAILY NEEDS REIT"
+    },
+    {
+      "code": "X-HDRU",
+      "name": "HDR INC"
+    },
+    {
+      "code": "HGH",
+      "name": "HEARTLAND GROUP HOLDINGS LIMITED"
+    },
+    {
+      "code": "HHI",
+      "name": "HEALTH HOUSE INTERNATIONAL LIMITED"
+    },
+    {
+      "code": "HLA",
+      "name": "HEALTHIA LIMITED"
+    },
+    {
+      "code": "HLI",
+      "name": "HELIA GROUP LIMITED"
+    },
+    {
+      "code": "HXL",
+      "name": "HEXIMA LIMITED"
+    },
+    {
+      "code": "HFGE",
+      "name": "HILTON FOODS LIMITED"
+    },
+    {
+      "code": "HIAU",
+      "name": "HORT INNOVATION"
+    },
+    {
+      "code": "HLMU",
+      "name": "HIGHLOW MARKETS PTY LTD"
+    },
+    {
+      "code": "HPG",
+      "name": "HIPAGES GROUP HOLDINGS LTD"
+    },
+    {
+      "code": "X-HLY",
+      "name": "HILLS MOTORWAY GROUP"
+    },
+    {
+      "code": "X-HYDT",
+      "name": "HIGH YIELD INFRASTRUCTURE DEBT TRUST"
+    },
+    {
+      "code": "HMC",
+      "name": "HMC CAPITAL LIMITED"
+    },
+    {
+      "code": "HNCU",
+      "name": "HUNTERNET CO-OPERATIVE"
+    },
+    {
+      "code": "HPI",
+      "name": "HOTEL PROPERTY INVESTMENTS LIMITED"
+    },
+    {
+      "code": "HWME",
+      "name": "HOWMET AEROSPACE INC"
+    },
+    {
+      "code": "X-HRP",
+      "name": "HOMEMAKER RETAIL PROPERTY TRUST"
+    },
+    {
+      "code": "HRL",
+      "name": "HRL Holdings Limited"
+    },
+    {
+      "code": "HTA",
+      "name": "HUTCHISON TELECOMMUNICATIONS (AUSTRALIA) LIMITED"
+    },
+    {
+      "code": "HUB",
+      "name": "HUB24 LIMITED"
+    },
+    {
+      "code": "HUM",
+      "name": "HUMM GROUP LIMITED"
+    },
+    {
+      "code": "X-HYF",
+      "name": "HY-FI SECURITIES LIMITED"
+    },
+    {
+      "code": "IAMU",
+      "name": "INCOME ASSET MANAGEMENT"
+    },
+    {
+      "code": "ICI",
+      "name": "ICANDY INTERACTIVE LIMITED"
+    },
+    {
+      "code": "IDT",
+      "name": "IDT AUSTRALIA LIMITED"
+    },
+    {
+      "code": "IEL",
+      "name": "IDP EDUCATION LIMITED"
+    },
+    {
+      "code": "IFM",
+      "name": "INFOMEDIA LTD"
+    },
+    {
+      "code": "IFN",
+      "name": "INFIGEN ENERGY LIMITED"
+    },
+    {
+      "code": "IFT",
+      "name": "INFRATIL LIMITED"
+    },
+    {
+      "code": "IGGE",
+      "name": "IG AUSTRALIA PTY LIMITED"
+    },
+    {
+      "code": "IHR",
+      "name": "INTELLIHR LIMITED"
+    },
+    {
+      "code": "IIC",
+      "name": "ILLUMINATOR INVESTMENT CO LTD"
+    },
+    {
+      "code": "IINU",
+      "name": "IINET LIMITED"
+    },
+    {
+      "code": "IKE",
+      "name": "IKEGPS GROUP LIMITED"
+    },
+    {
+      "code": "IM1",
+      "name": "I M QUARRIES LIMITED"
+    },
+    {
+      "code": "IMB",
+      "name": "Intelligent Monitoring Group Limited"
+    },
+    {
+      "code": "IMBL",
+      "name": "IMB LIMITED"
+    },
+    {
+      "code": "IMI",
+      "name": "INFINITY MINING LIMITED"
+    },
+    {
+      "code": "IMLU",
+      "name": "INVESTORS MUTUAL LIMITED"
+    },
+    {
+      "code": "IMVX",
+      "name": "IMMVIRX PTY LTD"
+    },
+    {
+      "code": "IPD",
+      "name": "IMPEDIMED LIMITED"
+    },
+    {
+      "code": "INA",
+      "name": "INGENIA COMMUNITIES GROUP"
+    },
+    {
+      "code": "INGE",
+      "name": "INGHAMS GROUP LIMITED"
+    },
+    {
+      "code": "IOFU",
+      "name": "INVESTA OFFICE FUND"
+    },
+    {
+      "code": "IONU",
+      "name": "IONIC INDUSTRIES LIMITED"
+    },
+    {
+      "code": "IPH",
+      "name": "IPH LIMITED"
+    },
+    {
+      "code": "IPL",
+      "name": "INCITEC PIVOT LIMITED"
+    },
+    {
+      "code": "INM",
+      "name": "IRON MOUNTAIN INC."
+    },
+    {
+      "code": "ISD",
+      "name": "ISENTIA GROUP LIMITED"
+    },
+    {
+      "code": "ISFM",
+      "name": "INVESTSMART FUNDS MANAGEMENT LIMITED"
+    },
+    {
+      "code": "ISX",
+      "name": "ISIGNTHIS LTD"
+    },
+    {
+      "code": "IVCU",
+      "name": "INVOCARE LIMITED"
+    },
+    {
+      "code": "IVG",
+      "name": "InVert Graphite Limited"
+    },
+    {
+      "code": "IVT",
+      "name": "INVENTIS LIMITED"
+    },
+    {
+      "code": "IVYU",
+      "name": "IVVY HOLDINGS PTY LTD"
+    },
+    {
+      "code": "JHCU",
+      "name": "JAPARA HEALTHCARE LIMITED"
+    },
+    {
+      "code": "JDO",
+      "name": "JUDO CAPITAL HOLDINGS LIMITED"
+    },
+    {
+      "code": "JLG",
+      "name": "JOHNS LYNG GROUP LIMITED"
+    },
+    {
+      "code": "JMLU",
+      "name": "JUBILEE METALS LIMITED"
+    },
+    {
+      "code": "JMS",
+      "name": "JUPITER MINES LIMITED"
+    },
+    {
+      "code": "JNO",
+      "name": "JUNO MINERALS LIMITED"
+    },
+    {
+      "code": "JPM",
+      "name": "JP MORGAN ASSET MANAGEMENT (AUSTRALIA) LTD"
+    },
+    {
+      "code": "X-JUPE",
+      "name": "JUPITERS LIMITED"
+    },
+    {
+      "code": "KALU",
+      "name": "KATANA GROUP LIMITED"
+    },
+    {
+      "code": "KAM",
+      "name": "KINA ASSET MANAGEMENT LIMITED"
+    },
+    {
+      "code": "KMNF",
+      "name": "KARARA MARKET NEUTRAL FUND"
+    },
+    {
+      "code": "KC8",
+      "name": "KC8 CAPTURE TECHNOLOGIES LTD"
+    },
+    {
+      "code": "YUM",
+      "name": "Kentucky Fried Chicken Pty Limited"
+    },
+    {
+      "code": "KGL",
+      "name": "KGL RESOURCES LIMITED"
+    },
+    {
+      "code": "KINU",
+      "name": "KIN-GIN EXPLORATION PTY LTD"
+    },
+    {
+      "code": "KLOU",
+      "name": "KINGSLAND GLOBAL LTD"
+    },
+    {
+      "code": "KPE",
+      "name": "KINA PETROLEUM CORPORATION"
+    },
+    {
+      "code": "KRM",
+      "name": "KINGSROSE MINING LIMITED"
+    },
+    {
+      "code": "KSL",
+      "name": "KINA SECURITIES LIMITED"
+    },
+    {
+      "code": "KSLP",
+      "name": "KINA SECURITIES LIMITED (PNG)"
+    },
+    {
+      "code": "KVSU",
+      "name": "KIEWA VALLEY SKI CLUB PTY LIMITED"
+    },
+    {
+      "code": "KMD",
+      "name": "KMD BRANDS LIMITED"
+    },
+    {
+      "code": "KOR",
+      "name": "KORAB RESOURCES LIMITED"
+    },
+    {
+      "code": "KWIU",
+      "name": "KWICKIE INTERNATIONAL LTD"
+    },
+    {
+      "code": "LIVU",
+      "name": "LAW INSTITUTE OF VICTORIA"
+    },
+    {
+      "code": "LSE",
+      "name": "LANDSDOWNE INVESTMENT COMPANY LIMITED"
+    },
+    {
+      "code": "LBGE",
+      "name": "LBG MEDIA PLC"
+    },
+    {
+      "code": "LCA",
+      "name": "LITIGATION CAPITAL MANAGEMENT LIMITED"
+    },
+    {
+      "code": "LENU",
+      "name": "AUSCRED LIMITED"
+    },
+    {
+      "code": "LGPL",
+      "name": "LENDI GROUP PTY LTD"
+    },
+    {
+      "code": "LSPR",
+      "name": "LEGAL SUPER PTY LTD"
+    },
+    {
+      "code": "LFG",
+      "name": "LIBERTY FINANCIAL GROUP LIMITED"
+    },
+    {
+      "code": "LGL",
+      "name": "LYNCH GROUP HOLDINGS LIMITED"
+    },
+    {
+      "code": "LIC",
+      "name": "LIFESTYLE COMMUNITIES LIMITED"
+    },
+    {
+      "code": "LICU",
+      "name": "LISTED INVESTMENT COMPANIES AND TRUSTS ASSOCIATION LIMITED"
+    },
+    {
+      "code": "LME",
+      "name": "LIMEADE, INC."
+    },
+    {
+      "code": "LNG",
+      "name": "LIQUEFIED NATURAL GAS LIMITED"
+    },
+    {
+      "code": "LNK",
+      "name": "LINK ADMINISTRATION HOLDINGS LIMITED"
+    },
+    {
+      "code": "LPAY",
+      "name": "LIMEPAY"
+    },
+    {
+      "code": "LMFT",
+      "name": "LM INVESTMENT MANAGEMENT LIMITED"
+    },
+    {
+      "code": "X-LMCU",
+      "name": "LM CURRENCY PROTECTED AUSTRALIAN INCOME FUND"
+    },
+    {
+      "code": "X-LMWU",
+      "name": "LM WHOLESALE FIRST MORTGAGE INCOME FUND"
+    },
+    {
+      "code": "LOV",
+      "name": "LOVISA HOLDINGS LIMITED"
+    },
+    {
+      "code": "LPE",
+      "name": "LOCALITY PLANNING ENERGY HOLDINGS LIMITED"
+    },
+    {
+      "code": "LSMU",
+      "name": "LONE STAR METALS PTY LTD"
+    },
+    {
+      "code": "LSF",
+      "name": "L1 LONG SHORT FUND LIMITED"
+    },
+    {
+      "code": "M4M",
+      "name": "MACRO METALS LIMITED"
+    },
+    {
+      "code": "MAM",
+      "name": "MICROEQUITIES ASSET MANAGEMENT GROUP LIMITED"
+    },
+    {
+      "code": "MAML",
+      "name": "MAGELLAN EXCHANGE QUOTED MANAGED FUNDS"
+    },
+    {
+      "code": "MBCU",
+      "name": "Malabar Resources Limited"
+    },
+    {
+      "code": "MBL",
+      "name": "MACQUARIE BANK LIMITED"
+    },
+    {
+      "code": "X-MBFU",
+      "name": "MBF AUSTRALIA LIMITED"
+    },
+    {
+      "code": "MCA",
+      "name": "MURRAY COD AUSTRALIA LIMITED"
+    },
+    {
+      "code": "MCE",
+      "name": "MATRIX COMPOSITES & ENGINEERING LIMITED"
+    },
+    {
+      "code": "MEA",
+      "name": "MCGRATH LIMITED"
+    },
+    {
+      "code": "MDTU",
+      "name": "MEDTEC HOLDINGS LIMITED"
+    },
+    {
+      "code": "MEDU",
+      "name": "MEDISECURE LTD"
+    },
+    {
+      "code": "MEL",
+      "name": "METGASCO LTD"
+    },
+    {
+      "code": "MEU",
+      "name": "MARMOTA LIMITED"
+    },
+    {
+      "code": "MLM",
+      "name": "METALLICA MINERALS LIMITED"
+    },
+    {
+      "code": "MMP",
+      "name": "METRO MEDIA PUBLISHING PTY LTD"
+    },
+    {
+      "code": "MPP",
+      "name": "METRO PERFORMANCE GLASS LIMITED"
+    },
+    {
+      "code": "MSB",
+      "name": "MESOBLAST LIMITED"
+    },
+    {
+      "code": "MVT",
+      "name": "MERCANTILE INVESTMENT COMPANY LIMITED"
+    },
+    {
+      "code": "MFD",
+      "name": "MAYFIELD CHILDCARE LIMITED"
+    },
+    {
+      "code": "MGH",
+      "name": "MAAS GROUP HOLDINGS LIMITED"
+    },
+    {
+      "code": "MGR",
+      "name": "MIRVAC GROUP"
+    },
+    {
+      "code": "MGTU",
+      "name": "MGT MINING LIMITED"
+    },
+    {
+      "code": "MHY",
+      "name": "MAHOGANY CAPITAL LIMITED"
+    },
+    {
+      "code": "MILU",
+      "name": "MURRAY IRRIGATION LIMITED"
+    },
+    {
+      "code": "MIMA",
+      "name": "MORNINGSTAR INVESTMENT MANAGEMENT AUSTRALIA LTD"
+    },
+    {
+      "code": "MIR",
+      "name": "MIRRABOOKA INVESTMENTS LIMITED"
+    },
+    {
+      "code": "MIRU",
+      "name": "MURRUMBIDGEE IRRIGATION LIMITED"
+    },
+    {
+      "code": "MLT",
+      "name": "MILTON CORPORATION LIMITED"
+    },
+    {
+      "code": "MPXNZ",
+      "name": "MID PACIFIC NEW ZEALAND LIMITED"
+    },
+    {
+      "code": "MPXX",
+      "name": "MID PACIFIC IRRIGATION"
+    },
+    {
+      "code": "MRC",
+      "name": "MINERAL COMMODITIES LTD"
+    },
+    {
+      "code": "MJP",
+      "name": "MARTIN AIRCRAFT COMPANY LIMITED"
+    },
+    {
+      "code": "MKG",
+      "name": "MAKO GOLD LIMITED"
+    },
+    {
+      "code": "MLG",
+      "name": "MLG OZ LIMITED"
+    },
+    {
+      "code": "MMB",
+      "name": "MMP BAYSIDE PTY LTD"
+    },
+    {
+      "code": "MME",
+      "name": "MONEYME LIMITED"
+    },
+    {
+      "code": "MMMU",
+      "name": "MARLEY SPOON SE"
+    },
+    {
+      "code": "MMTU",
+      "name": "MOUNT ROMMEL MINING LTD"
+    },
+    {
+      "code": "MMZU",
+      "name": "MOOTER MEDIA LIMITED"
+    },
+    {
+      "code": "MNS",
+      "name": "MAGNIS ENERGY TECHNOLOGIES LTD"
+    },
+    {
+      "code": "1MC",
+      "name": "Morella Corporation Limited"
+    },
+    {
+      "code": "MOC",
+      "name": "MORTGAGE CHOICE LIMITED"
+    },
+    {
+      "code": "MOV",
+      "name": "MOVE LOGISTICS GROUP LIMITED"
+    },
+    {
+      "code": "MOVE",
+      "name": "MOVE"
+    },
+    {
+      "code": "MVF",
+      "name": "MONASH IVF GROUP LIMITED"
+    },
+    {
+      "code": "X-MPTU",
+      "name": "MOOREBANK PROPERTY TRUST"
+    },
+    {
+      "code": "MQG",
+      "name": "MACQUARIE GROUP LIMITED"
+    },
+    {
+      "code": "MSV",
+      "name": "MITCHELL SERVICES LIMITED"
+    },
+    {
+      "code": "MTRU",
+      "name": "MANTRA GROUP LIMITED"
+    },
+    {
+      "code": "MUE",
+      "name": "MULTIPLEX EUROPEAN PROPERTY FUND"
+    },
+    {
+      "code": "X-MGCU",
+      "name": "MURRAY GOULBURN CO-OPERATIVE CO. LIMITED"
+    },
+    {
+      "code": "X-MMX",
+      "name": "MURCHISON METALS LIMITED"
+    },
+    {
+      "code": "X-MXG",
+      "name": "MULTIPLEX GROUP"
+    },
+    {
+      "code": "MWOF",
+      "name": "MIRVAC WHOLESALE OFFICE FUND"
+    },
+    {
+      "code": "MYE",
+      "name": "MASTERMYNE GROUP LIMITED"
+    },
+    {
+      "code": "MYO",
+      "name": "MYOB GROUP LIMITED"
+    },
+    {
+      "code": "MYR",
+      "name": "MYER HOLDINGS LIMITED"
+    },
+    {
+      "code": "X-MYB",
+      "name": "MYOB FINANCE AUSTRALIA LIMITED"
+    },
+    {
+      "code": "NAE",
+      "name": "NEW AGE EXPLORATION LIMITED"
+    },
+    {
+      "code": "NGI",
+      "name": "NAVIGATOR GLOBAL INVESTMENTS LIMITED"
+    },
+    {
+      "code": "NRMA",
+      "name": "NATIONAL ROADS AND MOTORISTS' ASSOCIATION LIMITED"
+    },
+    {
+      "code": "NRMA21",
+      "name": "NATIONAL ROADS AND MOTORISTS' ASSOCIATION LIMITED"
+    },
+    {
+      "code": "NVL",
+      "name": "NATIONAL VETERINARY CARE LTD"
+    },
+    {
+      "code": "X-NRMA",
+      "name": "NATIONAL ROADS AND MOTORISTS' ASSOCIATION LIMITED"
+    },
+    {
+      "code": "NCK",
+      "name": "NICK SCALI LIMITED"
+    },
+    {
+      "code": "NCMU",
+      "name": "NEWCREST MINING LIMITED"
+    },
+    {
+      "code": "NCR",
+      "name": "NUCOAL RESOURCES LIMITED"
+    },
+    {
+      "code": "NEC",
+      "name": "Nine Entertainment Co Holdings Limited"
+    },
+    {
+      "code": "NETS",
+      "name": "NETWEALTH SUPERANNUATION MASTER FUND"
+    },
+    {
+      "code": "NEU",
+      "name": "NEUREN PHARMACEUTICALS LIMITED"
+    },
+    {
+      "code": "NEW",
+      "name": "NEW ENERGY SOLAR"
+    },
+    {
+      "code": "NHCE",
+      "name": "NEW HOPE CORPORATION LIMITED"
+    },
+    {
+      "code": "NPM",
+      "name": "NEWPEAK METALS LIMITED"
+    },
+    {
+      "code": "NSWR",
+      "name": "NEW SOUTH WALES REAL ESTATE MEDIA PTY LIMITED"
+    },
+    {
+      "code": "NTC",
+      "name": "NETCOMM WIRELESS LIMITED"
+    },
+    {
+      "code": "NGP",
+      "name": "NGIP AGMARK LIMITED"
+    },
+    {
+      "code": "NGY",
+      "name": "NUENERGY GAS LIMITED"
+    },
+    {
+      "code": "NIU",
+      "name": "NIUMINCO GROUP LIMITED"
+    },
+    {
+      "code": "X-NDOE",
+      "name": "NIDO PETROLEUM LIMITED"
+    },
+    {
+      "code": "NOC",
+      "name": "NORTHERN CREST INVESTMENTS LIMITED"
+    },
+    {
+      "code": "NRLU",
+      "name": "NORTHAM RESOURCES LIMITED"
+    },
+    {
+      "code": "NST",
+      "name": "NORTHERN STAR RESOURCES LIMITED"
+    },
+    {
+      "code": "NTRE",
+      "name": "NORTHERN TERRITORY REAL ESTATE MEDIA PTY LIMITED"
+    },
+    {
+      "code": "NTTC",
+      "name": "NORTHERN TERRITORY TREASURY CORPORATION"
+    },
+    {
+      "code": "NVN",
+      "name": "NOVION PROPERTY GROUP"
+    },
+    {
+      "code": "NVO",
+      "name": "NOVO RESOURCES CORP"
+    },
+    {
+      "code": "NVX",
+      "name": "NOVONIX LIMITED"
+    },
+    {
+      "code": "X-NPTU",
+      "name": "NORTHGATE PROPERTY TRUST"
+    },
+    {
+      "code": "NWH",
+      "name": "NRW HOLDINGS LIMITED"
+    },
+    {
+      "code": "NXL",
+      "name": "NUIX LIMITED"
+    },
+    {
+      "code": "NWL",
+      "name": "NETWEALTH GROUP LIMITED"
+    },
+    {
+      "code": "NXD",
+      "name": "NEXTED GROUP LIMITED"
+    },
+    {
+      "code": "NXS",
+      "name": "NEXT SCIENCE LIMITED"
+    },
+    {
+      "code": "NXT",
+      "name": "NEXTDC LIMITED"
+    },
+    {
+      "code": "NZM",
+      "name": "NZME LIMITED"
+    },
+    {
+      "code": "N1H",
+      "name": "N1 HOLDINGS LIMITED"
+    },
+    {
+      "code": "OAK",
+      "name": "OAKRIDGE INTERNATIONAL LIMITED"
+    },
+    {
+      "code": "OCL",
+      "name": "ORASCOM CONSTRUCTION PLC"
+    },
+    {
+      "code": "ODUP",
+      "name": "OCEAN DUNES PROPERTY PTY LTD"
+    },
+    {
+      "code": "ODUU",
+      "name": "OCEAN DUNES HOLDINGS LIMITED"
+    },
+    {
+      "code": "OEC",
+      "name": "ORBITAL CORPORATION LIMITED"
+    },
+    {
+      "code": "OEL",
+      "name": "OTTO ENERGY LIMITED"
+    },
+    {
+      "code": "OFX",
+      "name": "OFX GROUP LIMITED"
+    },
+    {
+      "code": "OHE",
+      "name": "ORION HEALTH GROUP LIMITED"
+    },
+    {
+      "code": "OLVU",
+      "name": "OTHERLEVELS HOLDINGS LIMITED"
+    },
+    {
+      "code": "OLXU",
+      "name": "OLIVEX HOLDINGS LIMITED"
+    },
+    {
+      "code": "OLY",
+      "name": "OLYMPIO METALS LIMITED"
+    },
+    {
+      "code": "OML",
+      "name": "OOH!MEDIA LIMITED"
+    },
+    {
+      "code": "OPCU",
+      "name": "OPTICOMM LTD"
+    },
+    {
+      "code": "ORA",
+      "name": "ORORA LIMITED"
+    },
+    {
+      "code": "ORI",
+      "name": "ORICA LIMITED"
+    },
+    {
+      "code": "ORM",
+      "name": "ORION METALS LIMITED"
+    },
+    {
+      "code": "ORN",
+      "name": "ORION MINERALS LTD"
+    },
+    {
+      "code": "X-OBCU",
+      "name": "ORB TECH LTD-INVESTORLINK SECURITIES LIMITED"
+    },
+    {
+      "code": "OTW",
+      "name": "OVER THE WIRE HOLDINGS LIMITED"
+    },
+    {
+      "code": "OZL",
+      "name": "OZ MINERALS LIMITED"
+    },
+    {
+      "code": "PAI",
+      "name": "PLATINUM ASIA INVESTMENTS LIMITED"
+    },
+    {
+      "code": "PASI",
+      "name": "PASTORAL INVESTMENTS LIMITED"
+    },
+    {
+      "code": "PATU",
+      "name": "PATRON RESOURCES LIMITED"
+    },
+    {
+      "code": "PEB",
+      "name": "PACIFIC EDGE LIMITED"
+    },
+    {
+      "code": "PGC",
+      "name": "PARAGON CARE LIMITED"
+    },
+    {
+      "code": "PGO",
+      "name": "PACGOLD LIMITED"
+    },
+    {
+      "code": "PHMU",
+      "name": "PANDA HILL MINING LIMITED"
+    },
+    {
+      "code": "PLXU",
+      "name": "PANALITIX GLOBAL LTD"
+    },
+    {
+      "code": "PPP",
+      "name": "PAN PACIFIC PETROLEUM NL"
+    },
+    {
+      "code": "PBNK",
+      "name": "POLICE BANK"
+    },
+    {
+      "code": "X-PBM",
+      "name": "PBL MEDIA GROUP LTD"
+    },
+    {
+      "code": "PC1U",
+      "name": "PET CULTURE GROUP PTY LTD"
+    },
+    {
+      "code": "PCAU",
+      "name": "PEANUT COMPANY OF AUSTRALIA LTD"
+    },
+    {
+      "code": "PCGA",
+      "name": "PNG AIR LIMITED"
+    },
+    {
+      "code": "PCI",
+      "name": "PERPETUAL CREDIT INCOME TRUST"
+    },
+    {
+      "code": "PDL",
+      "name": "PENDAL GROUP LIMITED"
+    },
+    {
+      "code": "PDLU",
+      "name": "PEDAL GROUP PTY LTD"
+    },
+    {
+      "code": "PEK",
+      "name": "Peak Rare Earths Limited"
+    },
+    {
+      "code": "PEN",
+      "name": "PENINSULA ENERGY LIMITED"
+    },
+    {
+      "code": "PEQ",
+      "name": "PRITCHARD EQUITY LIMITED"
+    },
+    {
+      "code": "PERP",
+      "name": "PERPETUAL EXCHANGE TRADED MANAGED FUNDS"
+    },
+    {
+      "code": "PFP",
+      "name": "PROPEL FUNERAL PARTNERS LIMITED"
+    },
+    {
+      "code": "PGL",
+      "name": "PROSPA GROUP LIMITED"
+    },
+    {
+      "code": "PGM",
+      "name": "PLATINA RESOURCES LIMITED"
+    },
+    {
+      "code": "PGR",
+      "name": "THE PAS GROUP LIMITED"
+    },
+    {
+      "code": "PH2",
+      "name": "PURE HYDROGEN CORPORATION LIMITED"
+    },
+    {
+      "code": "PIC",
+      "name": "PERPETUAL EQUITY INVESTMENT COMPANY LIMITED"
+    },
+    {
+      "code": "PIH",
+      "name": "PRIME INFRASTRUCTURE GROUP"
+    },
+    {
+      "code": "PIML",
+      "name": "PLATINUM QUOTED FUNDS"
+    },
+    {
+      "code": "PNC",
+      "name": "PIONEER CREDIT LIMITED"
+    },
+    {
+      "code": "PVS",
+      "name": "PIVOTAL SYSTEMS CORPORATION"
+    },
+    {
+      "code": "X-PWK",
+      "name": "PIPE NETWORKS LIMITED"
+    },
+    {
+      "code": "PLGE",
+      "name": "PROPERTYLINK (HOLDINGS) LIMITED"
+    },
+    {
+      "code": "PLY",
+      "name": "PLAYSIDE STUDIOS LIMITED"
+    },
+    {
+      "code": "PMC",
+      "name": "PLATINUM CAPITAL LIMITED"
+    },
+    {
+      "code": "PTME",
+      "name": "PLATINUM ASSET MANAGEMENT LIMITED"
+    },
+    {
+      "code": "PMA",
+      "name": "PERTH MINT AUSTRALIA"
+    },
+    {
+      "code": "PME",
+      "name": "PRO MEDICUS LIMITED"
+    },
+    {
+      "code": "PNN",
+      "name": "POWER MINERALS LIMITED"
+    },
+    {
+      "code": "POL",
+      "name": "POLYMETALS RESOURCES LTD"
+    },
+    {
+      "code": "POMU",
+      "name": "POLYMETALLICA MINERALS LIMITED"
+    },
+    {
+      "code": "POWU",
+      "name": "PROTEAN ENERGY LIMITED"
+    },
+    {
+      "code": "PVE",
+      "name": "PO VALLEY ENERGY LIMITED"
+    },
+    {
+      "code": "PPE",
+      "name": "PEOPLEIN LIMITED"
+    },
+    {
+      "code": "PPGE",
+      "name": "PPG INDUSTRIES AUSTRALIA PTY LTD"
+    },
+    {
+      "code": "PPH",
+      "name": "PUSHPAY HOLDINGS LIMITED"
+    },
+    {
+      "code": "PPS",
+      "name": "PRAEMIUM LIMITED"
+    },
+    {
+      "code": "PPT",
+      "name": "PERPETUAL LIMITED"
+    },
+    {
+      "code": "P10U",
+      "name": "PROTEN LIMITED"
+    },
+    {
+      "code": "PRN",
+      "name": "PERENTI LIMITED"
+    },
+    {
+      "code": "PSGU",
+      "name": "PEREGIAN SPRINGS GOLF HOLDINGS LIMITED"
+    },
+    {
+      "code": "PSH",
+      "name": "PENRICE SODA HOLDINGS LIMITED"
+    },
+    {
+      "code": "PSI",
+      "name": "PSC INSURANCE GROUP LIMITED"
+    },
+    {
+      "code": "PTB",
+      "name": "PTB GROUP LIMITED"
+    },
+    {
+      "code": "X-PWPU",
+      "name": "PULPWOOD PLANTATIONS PTY LIMITED"
+    },
+    {
+      "code": "PVTU",
+      "name": "PROVET HOLDINGS LIMITED"
+    },
+    {
+      "code": "PWR",
+      "name": "PETER WARREN AUTOMOTIVE HOLDINGS LIMITED"
+    },
+    {
+      "code": "PXA",
+      "name": "PEXA GROUP LIMITED"
+    },
+    {
+      "code": "QAL",
+      "name": "QUALITAS LIMITED"
+    },
+    {
+      "code": "QAN",
+      "name": "QANTAS AIRWAYS LIMITED"
+    },
+    {
+      "code": "QBCU",
+      "name": "QUEENSLAND BEER CO LIMITED"
+    },
+    {
+      "code": "QBIC",
+      "name": "QBIOTICS LIMITED"
+    },
+    {
+      "code": "QBNK",
+      "name": "QBANK"
+    },
+    {
+      "code": "QGLU",
+      "name": "QBIOTICS GROUP LIMITED"
+    },
+    {
+      "code": "QCB",
+      "name": "QUEENSLAND COUNTRY BANK"
+    },
+    {
+      "code": "QGL",
+      "name": "QUANTUM GRAPHITE LIMITED"
+    },
+    {
+      "code": "QLDR",
+      "name": "QUEENSLAND REAL ESTATE MEDIA PTY LIMITED"
+    },
+    {
+      "code": "QRI",
+      "name": "QUALITAS REAL ESTATE INCOME FUND"
+    },
+    {
+      "code": "QTC",
+      "name": "QUEENSLAND TREASURY CORPORATION"
+    },
+    {
+      "code": "QUBE",
+      "name": "QUBE HOLDINGS LIMITED"
+    },
+    {
+      "code": "X-QPFU",
+      "name": "QUEENSLAND PAULOWNIA FORESTS LTD"
+    },
+    {
+      "code": "QVE",
+      "name": "QV EQUITIES LIMITED"
+    },
+    {
+      "code": "R3R",
+      "name": "RAPID RESPONSE REVIVAL RESEARCH LIMITED"
+    },
+    {
+      "code": "RABU",
+      "name": "REGIONAL AUSTRALIA BANK"
+    },
+    {
+      "code": "RACP",
+      "name": "THE ROYAL AUSTRALASIAN COLLEGE OF PHYSICIANS"
+    },
+    {
+      "code": "RACQ",
+      "name": "THE ROYAL AUTOMOBILE CLUB OF QUEENSLAND LIMITED"
+    },
+    {
+      "code": "RACV",
+      "name": "ROYAL AUTOMOBILE CLUB OF VICTORIA (RACV) LTD"
+    },
+    {
+      "code": "REP",
+      "name": "RAM ESSENTIAL SERVICES PROPERTY  FUND"
+    },
+    {
+      "code": "RPDG",
+      "name": "RAPID GROUP CO-OPERATIVE LTD"
+    },
+    {
+      "code": "RTH",
+      "name": "RAS TECHNOLOGY HOLDINGS LIMITED"
+    },
+    {
+      "code": "RBSW",
+      "name": "RBS ALTERNATIVE INVESTMENTS (AUSTRALIA) PTY LIMITED"
+    },
+    {
+      "code": "RDY",
+      "name": "READYTECH HOLDINGS LIMITED"
+    },
+    {
+      "code": "REA",
+      "name": "REA GROUP LTD"
+    },
+    {
+      "code": "REC",
+      "name": "RECALL HOLDINGS LIMITED"
+    },
+    {
+      "code": "REG",
+      "name": "REGIS HEALTHCARE LIMITED"
+    },
+    {
+      "code": "REIU",
+      "name": "REAL ESTATE INSTITUTE OF QUEENSLAND"
+    },
+    {
+      "code": "REZU",
+      "name": "REDZED LENDING SOLUTIONS PTY LTD"
+    },
+    {
+      "code": "RF1",
+      "name": "REGAL INVESTMENT FUND"
+    },
+    {
+      "code": "RGN",
+      "name": "REGION RE LIMITED"
+    },
+    {
+      "code": "RHP",
+      "name": "RHIPE LIMITED"
+    },
+    {
+      "code": "SGL",
+      "name": "Ricegrowers Limited"
+    },
+    {
+      "code": "X-RISU",
+      "name": "RICHFIELD INTERNATIONAL LIMITED"
+    },
+    {
+      "code": "RLC",
+      "name": "REEDY LAGOON CORPORATION LIMITED"
+    },
+    {
+      "code": "RLE",
+      "name": "REAL ENERGY CORPORATION LIMITED"
+    },
+    {
+      "code": "RNE",
+      "name": "ReNu Energy Limited"
+    },
+    {
+      "code": "RNU",
+      "name": "RENASCOR RESOURCES LIMITED"
+    },
+    {
+      "code": "RNY",
+      "name": "RNY PROPERTY TRUST"
+    },
+    {
+      "code": "RPAU",
+      "name": "REELPLAY PTY LTD"
+    },
+    {
+      "code": "RPLU",
+      "name": "RPAA INVESTMENTS LTD"
+    },
+    {
+      "code": "X-RPXE",
+      "name": "RP DATA LTD"
+    },
+    {
+      "code": "RRHU",
+      "name": "RECYCLE AND RESOURCE HOLDINGS LIMITED"
+    },
+    {
+      "code": "RSLU",
+      "name": "RSL NSW"
+    },
+    {
+      "code": "X-RIML",
+      "name": "RUSSELL INVESTMENT MANAGEMENT LTD."
+    },
+    {
+      "code": "X-RUPA",
+      "name": "RUPA"
+    },
+    {
+      "code": "RVS",
+      "name": "REVASUM, INC."
+    },
+    {
+      "code": "RYD",
+      "name": "RYDER CAPITAL LIMITED"
+    },
+    {
+      "code": "SAHL",
+      "name": "SMOKE ALARMS HOLDINGS LIMITED"
+    },
+    {
+      "code": "SARE",
+      "name": "SOUTH AUSTRALIA REAL ESTATE MEDIA PTY LIMITED"
+    },
+    {
+      "code": "SAY",
+      "name": "SOUTH AMERICAN IRON & STEEL CORPORATION LIMITED"
+    },
+    {
+      "code": "SHLU",
+      "name": "SAVAGE PTY LIMITED"
+    },
+    {
+      "code": "SLM",
+      "name": "SALMAT LIMITED (IN LIQUIDATION)"
+    },
+    {
+      "code": "SMI",
+      "name": "SANTANA MINERALS LIMITED"
+    },
+    {
+      "code": "SNC",
+      "name": "SANDON CAPITAL INVESTMENTS LIMITED"
+    },
+    {
+      "code": "SND",
+      "name": "SAUNDERS INTERNATIONAL LIMITED"
+    },
+    {
+      "code": "SO4",
+      "name": "SALT LAKE POTASH LIMITED"
+    },
+    {
+      "code": "STN",
+      "name": "SATURN METALS LIMITED"
+    },
+    {
+      "code": "SBK",
+      "name": "SUNCORP-METWAY LTD"
+    },
+    {
+      "code": "SCHR",
+      "name": "SCHRODER INVESTMENT MANAGEMENT AUSTRALIA LIMITED"
+    },
+    {
+      "code": "SCO",
+      "name": "SCOTTISH PACIFIC GROUP LIMITED"
+    },
+    {
+      "code": "SCTU",
+      "name": "SCANTECH LIMITED"
+    },
+    {
+      "code": "SDA",
+      "name": "SPEEDCAST INTERNATIONAL LIMITED"
+    },
+    {
+      "code": "SDF",
+      "name": "STEADFAST GROUP"
+    },
+    {
+      "code": "SDGU",
+      "name": "SUNLAND GROUP LIMITED"
+    },
+    {
+      "code": "SDI",
+      "name": "SDI LIMITED"
+    },
+    {
+      "code": "X-SDHL",
+      "name": "SDH HOLDINGS GROUP LIMITED"
+    },
+    {
+      "code": "SEKE",
+      "name": "SEEK LIMITED"
+    },
+    {
+      "code": "SER",
+      "name": "STRATEGIC ENERGY RESOURCES LIMITED"
+    },
+    {
+      "code": "SKO",
+      "name": "SERKO LIMITED"
+    },
+    {
+      "code": "SWF",
+      "name": "SELFWEALTH LIMITED"
+    },
+    {
+      "code": "X-SEVU",
+      "name": "SEVEN NETWORK"
+    },
+    {
+      "code": "SFX",
+      "name": "SHEFFIELD RESOURCES LIMITED"
+    },
+    {
+      "code": "SGB",
+      "name": "ST GEORGE BANK LIMITED"
+    },
+    {
+      "code": "SGFE",
+      "name": "SG FLEET GROUP LIMITED"
+    },
+    {
+      "code": "SGM",
+      "name": "SIMS LIMITED"
+    },
+    {
+      "code": "SGR",
+      "name": "THE STAR ENTERTAINMENT GROUP LIMITED"
+    },
+    {
+      "code": "SGU",
+      "name": "SUCCESS RESOURCES GLOBAL LIMITED"
+    },
+    {
+      "code": "X-SGEW",
+      "name": "SG AUSTRALIA LTD"
+    },
+    {
+      "code": "SH2U",
+      "name": "SYNERGEN MET LIMITED"
+    },
+    {
+      "code": "SHJ",
+      "name": "SHINE JUSTICE LTD"
+    },
+    {
+      "code": "SHM",
+      "name": "SHRIRO HOLDINGS LIMITED"
+    },
+    {
+      "code": "SHOU",
+      "name": "SILK HOLDCO PTY LIMITED"
+    },
+    {
+      "code": "SSG",
+      "name": "SHAVER SHOP GROUP LIMITED"
+    },
+    {
+      "code": "SIG",
+      "name": "SIGMA HEALTHCARE LIMITED"
+    },
+    {
+      "code": "SIQ",
+      "name": "SMARTGROUP CORPORATION LTD"
+    },
+    {
+      "code": "SLHE",
+      "name": "SILK LOGISTICS HOLDING LIMITED"
+    },
+    {
+      "code": "SKN",
+      "name": "SKIN ELEMENTS LIMITED"
+    },
+    {
+      "code": "SLAU",
+      "name": "SPINAL LIFE AUSTRALIA"
+    },
+    {
+      "code": "SLB",
+      "name": "STELAR METALS LIMITED"
+    },
+    {
+      "code": "SLC",
+      "name": "SUPERLOOP LIMITED"
+    },
+    {
+      "code": "SMG",
+      "name": "SOON MINING LIMITED"
+    },
+    {
+      "code": "SMR",
+      "name": "STANMORE RESOURCES LIMITED"
+    },
+    {
+      "code": "X-SMEC",
+      "name": "SMEC HOLDINGS LIMITED"
+    },
+    {
+      "code": "X-SMEN",
+      "name": "SM URBAN PTY LIMITED"
+    },
+    {
+      "code": "SNPU",
+      "name": "SNIIP LTD"
+    },
+    {
+      "code": "SNZ",
+      "name": "SUMMERSET GROUP HOLDINGS LIMITED"
+    },
+    {
+      "code": "SWCU",
+      "name": "SOUTH WEST CREDIT UNION"
+    },
+    {
+      "code": "SPAU",
+      "name": "SUICIDE PREVENTION AUSTRALIA LIMITED"
+    },
+    {
+      "code": "SPDR",
+      "name": "STATE STREET GLOBAL ADVISORS ETF"
+    },
+    {
+      "code": "SPK",
+      "name": "SPARK NEW ZEALAND LIMITED"
+    },
+    {
+      "code": "SPLU",
+      "name": "SPLEND GROUP PTY LTD"
+    },
+    {
+      "code": "SPN",
+      "name": "SPARC TECHNOLOGIES LIMITED"
+    },
+    {
+      "code": "SPOU",
+      "name": "SPOTLESS GROUP HOLDINGS LIMITED"
+    },
+    {
+      "code": "SPQ",
+      "name": "SUPERIOR RESOURCES LIMITED"
+    },
+    {
+      "code": "SPY",
+      "name": "SPDR S&P 500 ETF TRUST"
+    },
+    {
+      "code": "SQU",
+      "name": "SQUIRREL LIMITED"
+    },
+    {
+      "code": "SQX",
+      "name": "SQX RESOURCES LIMITED"
+    },
+    {
+      "code": "SRPC",
+      "name": "SYDNEY RENEWABLE POWER COMPANY LIMITED"
+    },
+    {
+      "code": "SRT",
+      "name": "STRATA INVESTMENT HOLDINGS PLC"
+    },
+    {
+      "code": "S66",
+      "name": "STAR COMBO PHARMA LIMITED"
+    },
+    {
+      "code": "STG",
+      "name": "STRAKER LIMITED"
+    },
+    {
+      "code": "SUG",
+      "name": "SUGAR TERMINALS LIMITED"
+    },
+    {
+      "code": "SUL",
+      "name": "SUPER RETAIL GROUP LIMITED"
+    },
+    {
+      "code": "SUN",
+      "name": "SUNCORP GROUP LIMITED"
+    },
+    {
+      "code": "SVG",
+      "name": "Savannah Goldfields Limited"
+    },
+    {
+      "code": "SXPLU",
+      "name": "SWYFTX PTY LTD"
+    },
+    {
+      "code": "SYM",
+      "name": "SYMBIO HOLDINGS LIMITED"
+    },
+    {
+      "code": "SYRE",
+      "name": "SYRAH RESOURCES LIMITED"
+    },
+    {
+      "code": "X-SWAN",
+      "name": "SYDNEY SWANS LIMITED"
+    },
+    {
+      "code": "TAH",
+      "name": "TABCORP HOLDINGS LIMITED"
+    },
+    {
+      "code": "TALU",
+      "name": "TASMEA LIMITED (HISTORIC"
+    },
+    {
+      "code": "TASR",
+      "name": "TASMANIA REAL ESTATE MEDIA PTY LIMITED"
+    },
+    {
+      "code": "TEA",
+      "name": "TASMEA LIMITED"
+    },
+    {
+      "code": "TFL",
+      "name": "TASFOODS LIMITED"
+    },
+    {
+      "code": "TLM",
+      "name": "TALISMAN MINING LIMITED"
+    },
+    {
+      "code": "TMM",
+      "name": "TASMANIA MINES LIMITED"
+    },
+    {
+      "code": "TTS",
+      "name": "TATTS GROUP LIMITED"
+    },
+    {
+      "code": "TCNU",
+      "name": "TECHNICHE LIMITED"
+    },
+    {
+      "code": "TER",
+      "name": "TERRACOM LIMITED"
+    },
+    {
+      "code": "TFEU",
+      "name": "TERRA FIRMA EQUITY LIMITED"
+    },
+    {
+      "code": "TGH",
+      "name": "TERRAGEN HOLDINGS LIMITED"
+    },
+    {
+      "code": "TIOU",
+      "name": "TELECOMMUNICATIONS INDUSTRY OMBUDSMAN LIMITED"
+    },
+    {
+      "code": "TLS",
+      "name": "TELSTRA GROUP LIMITED"
+    },
+    {
+      "code": "TLX",
+      "name": "TELIX PHARMACEUTICALS LIMITED"
+    },
+    {
+      "code": "TNE",
+      "name": "TECHNOLOGY ONE LIMITED"
+    },
+    {
+      "code": "TPW",
+      "name": "TEMPLE & WEBSTER GROUP LTD"
+    },
+    {
+      "code": "THL",
+      "name": "TOURISM HOLDINGS RENTALS LIMITED"
+    },
+    {
+      "code": "TLC",
+      "name": "THE LOTTERY CORPORATION LIMITED"
+    },
+    {
+      "code": "TMHE",
+      "name": "THE MARKET HERALD LIMITED"
+    },
+    {
+      "code": "TICU",
+      "name": "TICTOC ONLINE PTY LTD"
+    },
+    {
+      "code": "TIG",
+      "name": "TIGERS REALM COAL LIMITED"
+    },
+    {
+      "code": "TOU",
+      "name": "TLOU ENERGY LIMITED"
+    },
+    {
+      "code": "TME",
+      "name": "TRADE ME GROUP LIMITED"
+    },
+    {
+      "code": "TOK",
+      "name": "TOLU MINERALS LIMITED"
+    },
+    {
+      "code": "TOM",
+      "name": "TOMIZONE LIMITED"
+    },
+    {
+      "code": "TVL",
+      "name": "TOUCH VENTURES LIMITED"
+    },
+    {
+      "code": "TPGU",
+      "name": "VERMONT AUS PTY LTD"
+    },
+    {
+      "code": "TRS",
+      "name": "THE REJECT SHOP LIMITED"
+    },
+    {
+      "code": "TRU",
+      "name": "TRUSCREEN GROUP LIMITED"
+    },
+    {
+      "code": "X-TNS",
+      "name": "TRANSONIC TRAVEL LIMITED"
+    },
+    {
+      "code": "TUGU",
+      "name": "TUGI LTD"
+    },
+    {
+      "code": "TWCU",
+      "name": "TERRY WHITE GROUP LIMITED"
+    },
+    {
+      "code": "TYR",
+      "name": "TYRO PAYMENTS LIMITED"
+    },
+    {
+      "code": "UBL",
+      "name": "UNIVERSAL BIOSECURITY LIMITED"
+    },
+    {
+      "code": "UBS",
+      "name": "UBS EXCHANGE TRADED FUNDS"
+    },
+    {
+      "code": "ULCU",
+      "name": "ULTRA COMMERCE"
+    },
+    {
+      "code": "UMG",
+      "name": "UNITED MALT GROUP LIMITED"
+    },
+    {
+      "code": "UNDU",
+      "name": "U & D COAL LIMITED"
+    },
+    {
+      "code": "UNI",
+      "name": "UNIVERSAL STORE HOLDINGS LIMITED"
+    },
+    {
+      "code": "USL",
+      "name": "Unico Silver Limited"
+    },
+    {
+      "code": "URB",
+      "name": "URB INVESTMENTS LIMITED"
+    },
+    {
+      "code": "VAN",
+      "name": "VANECK INVESTMENTS LIMITED"
+    },
+    {
+      "code": "VANX",
+      "name": "VanEck VECTORS ETF TRUST C/O MVIL"
+    },
+    {
+      "code": "VLT",
+      "name": "VAULT INTELLIGENCE LIMITED"
+    },
+    {
+      "code": "VCX",
+      "name": "VICINITY CENTRES"
+    },
+    {
+      "code": "VEA",
+      "name": "VIVA ENERGY GROUP LIMITED"
+    },
+    {
+      "code": "VEC",
+      "name": "VECTOR RESOURCES LIMITED"
+    },
+    {
+      "code": "VER",
+      "name": "VERTUA LIMITED"
+    },
+    {
+      "code": "VET",
+      "name": "VOCATION LIMITED"
+    },
+    {
+      "code": "VPLU",
+      "name": "VERVA PHARMACEUTICALS LIMITED"
+    },
+    {
+      "code": "X-VED",
+      "name": "VEDA GROUP LIMITED"
+    },
+    {
+      "code": "VFF",
+      "name": "VICTORIAN FARMERS FEDERATION"
+    },
+    {
+      "code": "VGL",
+      "name": "VISTA GROUP INTERNATIONAL LIMITED"
+    },
+    {
+      "code": "VTL",
+      "name": "VGI HEALTH TECHNOLOGY LIMITED"
+    },
+    {
+      "code": "VITU",
+      "name": "VITACO HOLDINGS LIMITED"
+    },
+    {
+      "code": "VLA",
+      "name": "VIRALYTICS LTD"
+    },
+    {
+      "code": "VRT",
+      "name": "VIRTUS HEALTH LIMITED"
+    },
+    {
+      "code": "VPR",
+      "name": "VOLT POWER GROUP LIMITED"
+    },
+    {
+      "code": "VRC",
+      "name": "VOLT RESOURCES LIMITED"
+    },
+    {
+      "code": "VSL",
+      "name": "VULCAN STEEL LIMITED"
+    },
+    {
+      "code": "WA8",
+      "name": "WARRIEDAR RESOURCES LIMITED"
+    },
+    {
+      "code": "WARE",
+      "name": "WESTERN AUSTRALIA REAL ESTATE MEDIA PTY  LIMITED"
+    },
+    {
+      "code": "WPR",
+      "name": "WAYPOINT REIT LIMITED"
+    },
+    {
+      "code": "X-WCBU",
+      "name": "WARRNAMBOOL CHEESE AND BUTTER FACTORY CO HOLDINGS LIMITED"
+    },
+    {
+      "code": "WBC",
+      "name": "WESTPAC BANKING CORPORATION"
+    },
+    {
+      "code": "WLS",
+      "name": "WCM GLOBAL LONG SHORT LIMITED"
+    },
+    {
+      "code": "WQG",
+      "name": "WCM GLOBAL GROWTH LIMITED"
+    },
+    {
+      "code": "WFLI",
+      "name": "WENGAS FUND LIMITED (IN LIQUIDATION)"
+    },
+    {
+      "code": "WLD",
+      "name": "WELLARD LIMITED"
+    },
+    {
+      "code": "WLL",
+      "name": "WELLCOM GROUP LIMITED"
+    },
+    {
+      "code": "X-WCT",
+      "name": "WESTPAC TPS TRUST"
+    },
+    {
+      "code": "X-WR1U",
+      "name": "WESTPAC FAMILY RESTAURANTS PROPERTY TRUST"
+    },
+    {
+      "code": "X-WR2U",
+      "name": "WESTPAC FAMILY RESTAURANTS PROPERTY TRUST NO 2"
+    },
+    {
+      "code": "WMCU",
+      "name": "WILUNA MINING CORPORATION LIMITED"
+    },
+    {
+      "code": "WOA",
+      "name": "WIDE OPEN AGRICULTURE LTD"
+    },
+    {
+      "code": "WPH",
+      "name": "WINPAR HOLDINGS LIMITED"
+    },
+    {
+      "code": "WTC",
+      "name": "WISETECH GLOBAL LIMITED"
+    },
+    {
+      "code": "WTN",
+      "name": "WINTON LAND LIMITED"
+    },
+    {
+      "code": "WWG",
+      "name": "WISEWAY GROUP LIMITED"
+    },
+    {
+      "code": "WYWM",
+      "name": "WITHYOUWITHME"
+    },
+    {
+      "code": "WZR",
+      "name": "WISR LIMITED"
+    },
+    {
+      "code": "WOW",
+      "name": "WOOLWORTHS GROUP LIMITED"
+    },
+    {
+      "code": "WPLO",
+      "name": "WOOLPOLL 2024"
+    },
+    {
+      "code": "WPPE",
+      "name": "WPP AUNZ LTD"
+    },
+    {
+      "code": "XATM",
+      "name": "THE A2 MILK COMPANY LIMITED"
+    },
+    {
+      "code": "XRO",
+      "name": "XERO LIMITED"
+    },
+    {
+      "code": "X-AATU",
+      "name": "AUSTRALIAN AGRICULTURAL TECHNOLOGIES LIMITED"
+    },
+    {
+      "code": "X-ACD",
+      "name": "AUSTRALIAN CENTRAL CREDIT UNION LTD"
+    },
+    {
+      "code": "X-AEY",
+      "name": "AUSTRALIAN ONSHORE ENERGY FUND"
+    },
+    {
+      "code": "X-AGCE",
+      "name": "AUSGROUP LIMITED"
+    },
+    {
+      "code": "X-ALS",
+      "name": "ALESCO CORPORATION LIMITED"
+    },
+    {
+      "code": "YAMU",
+      "name": "YUMBAH AQUACULTURE"
+    },
+    {
+      "code": "YHLU",
+      "name": "YACKANDANDAH HEALTH LIMITED"
+    },
+    {
+      "code": "YOW",
+      "name": "YOWIE GROUP LIMITED"
+    },
+    {
+      "code": "ZEL",
+      "name": "Z ENERGY LIMITED"
+    },
+    {
+      "code": "ZEN",
+      "name": "ZENITH ENERGY LIMITED"
+    },
+    {
+      "code": "ZGL",
+      "name": "ZICOM GROUP LIMITED"
+    },
+    {
+      "code": "ZIGU",
+      "name": "ZIG VENTURES LIMITED"
+    },
+    {
+      "code": "29M",
+      "name": "29METALS LIMITED"
+    },
+    {
+      "code": "3PL",
+      "name": "3P LEARNING LIMITED"
+    },
+    {
+      "code": "4DX",
+      "name": "4DMedical Limited"
+    },
+    {
+      "code": "5BHU",
+      "name": "5B HOLDINGS PTY LTD"
+    },
+    {
+      "code": "5GN",
+      "name": "5G NETWORKS LIMITED"
+    },
+    {
+      "code": "8VI",
+      "name": "8VI HOLDINGS LIMITED"
+    },
+    {
+      "code": "86HU",
+      "name": "86 400 HOLDINGS"
+    }
+  ]
+}

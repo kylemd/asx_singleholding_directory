@@ -34,24 +34,24 @@ document.addEventListener('DOMContentLoaded', function() {
     searchInput.focus();
   }, 0);
   
-  // Fetch company data from GitHub
-  async function fetchCompanyData() {
+  // Load company data from local JSON files
+  async function loadCompanyData() {
     try {
       const sources = [
         {
-          url: 'https://cdn.jsdelivr.net/gh/kylemd/asx_singleholding_directory@refs/heads/main/Output/automic_companylist.json',
+          url: 'data/automic_companylist.json',
           registry: 'Automic'
         },
         {
-          url: 'https://cdn.jsdelivr.net/gh/kylemd/asx_singleholding_directory@refs/heads/main/Output/computershare_companylist.json',
+          url: 'data/computershare_companylist.json',
           registry: 'Computershare'
         },
         {
-          url: 'https://cdn.jsdelivr.net/gh/kylemd/asx_singleholding_directory@refs/heads/main/Output/investorserve_companylist.json',
+          url: 'data/investorserve_companylist.json',
           registry: 'InvestorServe'
         },
         {
-          url: 'https://cdn.jsdelivr.net/gh/kylemd/asx_singleholding_directory@refs/heads/main/Output/mufg_companylist.json',
+          url: 'data/mufg_companylist.json',
           registry: 'MUFG'
         }
       ];
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
       for (const source of sources) {
         const response = await fetch(source.url);
         if (!response.ok) {
-          throw new Error(`Failed to fetch data from ${source.url}`);
+          throw new Error(`Failed to load data from ${source.url}`);
         }
         
         const data = await response.json();
@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
       
       return allCompanies;
     } catch (error) {
-      console.error('Error fetching company data:', error);
+      console.error('Error loading company data:', error);
       registryInfo.textContent = 'Error loading company data. Please try again later.';
       return [];
     }
@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Initialize the extension
   async function init() {
     registryInfo.textContent = 'Loading company data...';
-    companies = await fetchCompanyData();
+    companies = await loadCompanyData();
     registryInfo.textContent = `Loaded ${companies.length} companies from 4 registries`;
   }
   
